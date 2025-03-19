@@ -104,10 +104,10 @@ https://d2e599a9ekjlc5.cloudfront.net/480p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL LP
-
+https://www.dailymotion.com/video/x7vsfua
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL BO
-
+https://live-c2.cf.dmcdn.net/sec2(2z-d6K0ltvvyeKUZGzDX-Z4ZvT20CzYCgwpkZZfitr8VWCOCKZlDaWuuYbtdM8SKTH5V3RxikMA8DB81TVjco2AbHuwAz24fOQAsOvuMU_Fm_OiB_YR6BiH9PgGPpHCB)/cloud/3/x7wzxiw/s/live-720.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fTeMW7Z1vpuzhdLPyh3mlTVA-TGPJEpu3I1ICo5VtE64JBVZQEqCsKAA7RnkzWBuAZE=s200" group-title="BOLIVIA", RED UNO (SANTA CRUZ)
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
@@ -138,6 +138,12 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVUNIVERSITARIA/__op/hls-defaul
 
 #EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/10/logocadenaa.png" group-title="BOLIVIA", CADENA A
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1z622f5R/1ztvhd.jpg" group-title="BOLIVIA", ZURACA TV HD
+https://envivo.bolivia-link.com:3099/live/ztvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J76KpSjD/ctvklp.jpg" group-title="BOLIVIA", CTV HD
+https://live.ctvbolivia.com/hls/ctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/Abya-Yala-TV-tvtolive.com_.jpg" group-title="BOLIVIA", ABYA YALA TV
 https://seo.tv.bo/tv/IpSEO-TV-8.m3u8
