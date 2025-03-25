@@ -71,7 +71,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w625337577.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1sdhJCC/AMITEL4-TV.jpg" group-title="BOLIVIA", AMITEL
-https://stv.boliviaplay.com.bo/hls/0/stream.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="BOLIVIA", DELTA TV HD
 https://tv3.bitstreaming.net:3951/multi_live/play_720.m3u8
@@ -101,13 +101,13 @@ https://d3ew2cr4djta2j.cloudfront.net/480p.m3u8
 https://d2e599a9ekjlc5.cloudfront.net/480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL SCZ
-
+https://live-b2.cf.dmcdn.net/sec2(LH0V7Q4SHMLEOOMeK6nOBP5HsaOhBKoHk_PaCZm5yw9YU_bFUcfhndJwpwdOE2Tdn4OLHtDT6ZLQ3yCvs8YzvO1jSYuHw0vsf0Goc_kVnFeEUownL-YccIcTy5xyDFTa)/cloud/3/x7vsezg/d/live-480.m3u8#cell=lcfb2
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL LP
-https://www.dailymotion.com/video/x7vsfua
+https://live-c2.cf.dmcdn.net/sec2(0LtQmc0YoOZ7biQtWLdUGpjYDNQzim5y1b64Y5nguSRyJXhfKFja-rdlftJCceVWjxyGc_r44eCSBUjUkN6GjMOUelySgknKABA_Aj6NBuzLsVNKsF87DYXwtBe4IeSn)/cloud/3/x7vsfua/d/live-480.m3u8#cell=lcfc2
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL BO
-https://live-c2.cf.dmcdn.net/sec2(2z-d6K0ltvvyeKUZGzDX-Z4ZvT20CzYCgwpkZZfitr8VWCOCKZlDaWuuYbtdM8SKTH5V3RxikMA8DB81TVjco2AbHuwAz24fOQAsOvuMU_Fm_OiB_YR6BiH9PgGPpHCB)/cloud/3/x7wzxiw/s/live-720.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fTeMW7Z1vpuzhdLPyh3mlTVA-TGPJEpu3I1ICo5VtE64JBVZQEqCsKAA7RnkzWBuAZE=s200" group-title="BOLIVIA", RED UNO (SANTA CRUZ)
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
@@ -117,6 +117,9 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/ind
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atb-iturri-bolivia-logo-BB6422A6B0-seeklogo.com.jpg" group-title="BOLIVIA", ATB
 http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png" group-title="BOLIVIA", F10 1
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.redpat.tv/wp-content/uploads/2020/03/pat-digital-logo-512x512-1.png" group-title="BOLIVIA", PAT
 https://www.redpat.tv/proxy/index.m3u8
@@ -141,6 +144,12 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/in
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1z622f5R/1ztvhd.jpg" group-title="BOLIVIA", ZURACA TV HD
 https://envivo.bolivia-link.com:3099/live/ztvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0k89Wv/ssss.png" group-title="BOLIVIA", ZOY TV HD 1
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0k89Wv/ssss.png" group-title="BOLIVIA", ZOY TV HD 2
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvbo/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J76KpSjD/ctvklp.jpg" group-title="BOLIVIA", CTV HD
 https://live.ctvbolivia.com/hls/ctv.m3u8
@@ -173,7 +182,7 @@ https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d5hd50k/99999.png" group-title="BOLIVIA", COLOR VISION 
-https://live-c.cf.dmcdn.net/sec2(RhEONok2BaAcX-WbLDYlBEbEpJ1o3P_R8FV5NoP8ZSyOi-OrRJLWsDcFp8oyzBniC0jmlA4lorEZGauDXx5ajpLu-e31y_bzw8Bjzb5_lRTgHc8-TG-kBIlS_KDsw3g-)/dm/3/x7gy059/d/live-480.m3u8#cell=lcfc
+
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/058006d4193f70b3416d6aeefed09a44.webp" group-title="BOLIVIA", CANELA CINEMA
 https://ov.ottera.tv/channels/cnm_cn_mv/master550000.m3u8;session=cnm_cn_mv
@@ -187,14 +196,14 @@ https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w824719299.m3u8
 #EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/cristaltv.png" group-title="BOLIVIA", CRISTAL TV (Santa Cruz)
 
 
-#EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png" group-title="BOLIVIA", F10
-https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+#EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png" group-title="BOLIVIA", F10 2
+https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXzt1qSF/palenque-tv-hd.jpg" group-title="BOLIVIA", PALENQUE TV HD
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHX89Zyg/PTV-HD.jpg" group-title="BOLIVIA", PACEÑISIMA TV HD
-https://fl1002.bozztv.com/ssh101/centralptv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jgpYpNz/redameric01x.jpg" group-title="BOLIVIA", RED AMERICA HD
 
@@ -230,10 +239,10 @@ https://fl1002.bozztv.com/ssh101/centralptv/tracks-v1a1/mono.m3u8
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzJLqDM/ANIME-STATION-HD.jpg" group-title="BOLIVIA", ANIME STATION TV HD
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg"group-title="BOLIVIA", ZOYTV KIDS HD
-https://stream.ads.ottera.tv/cl/250319cvdik5alo9hk30dh54tg/1280x720_3071200_0_f.m3u8?i=728_5444
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q50cC4c/LOGOS-TV-KIDS-HD.jpg" group-title="BOLIVIA", LOGOS TV KIDS
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w578670889.m3u8
@@ -254,7 +263,7 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="BOLIVIA", FUN TV HD
-https://stream.gia.tv/giatv/giatv-funtvretro/funtvretro/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/energeek_1.png" group-title="BOLIVIA", Energeek Retro
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
