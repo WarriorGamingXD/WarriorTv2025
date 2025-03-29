@@ -48,7 +48,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YhHQhj/images.jpg" group-title="BOLIVIA", NEOTV HD 1
-
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jZ7g58e.png" group-title="BOLIVIA", FAP TV
 https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
@@ -101,10 +101,10 @@ https://d3ew2cr4djta2j.cloudfront.net/480p.m3u8
 https://d2e599a9ekjlc5.cloudfront.net/480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL SCZ
-https://live-b2.cf.dmcdn.net/sec2(LH0V7Q4SHMLEOOMeK6nOBP5HsaOhBKoHk_PaCZm5yw9YU_bFUcfhndJwpwdOE2Tdn4OLHtDT6ZLQ3yCvs8YzvO1jSYuHw0vsf0Goc_kVnFeEUownL-YccIcTy5xyDFTa)/cloud/3/x7vsezg/d/live-480.m3u8#cell=lcfb2
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL LP
-https://live-c2.cf.dmcdn.net/sec2(0LtQmc0YoOZ7biQtWLdUGpjYDNQzim5y1b64Y5nguSRyJXhfKFja-rdlftJCceVWjxyGc_r44eCSBUjUkN6GjMOUelySgknKABA_Aj6NBuzLsVNKsF87DYXwtBe4IeSn)/cloud/3/x7vsfua/d/live-480.m3u8#cell=lcfc2
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL BO
 
@@ -118,7 +118,7 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/ind
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atb-iturri-bolivia-logo-BB6422A6B0-seeklogo.com.jpg" group-title="BOLIVIA", ATB
 http://186.121.206.197/live/daniel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png" group-title="BOLIVIA", F10 1
+#EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png" group-title="BOLIVIA", F10 
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.redpat.tv/wp-content/uploads/2020/03/pat-digital-logo-512x512-1.png" group-title="BOLIVIA", PAT
@@ -176,7 +176,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8
 https://stream.gia.tv/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YC5FRmq.png" group-title="BOLIVIA", RED CCTV (480p)
-https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/chunklist_w1692408575.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwzMd603/BIGTV01.jpg"  group-title="BOLIVIA", BIG TV HD
 
