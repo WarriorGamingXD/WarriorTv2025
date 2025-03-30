@@ -22,7 +22,7 @@ https://seo.tv.bo/tv/IpSEO-TV-4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="BOLIVIA", TELECLASICA SD
-https://ssh101-fl.bozztv.com/ssh101/teleclasik/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHX89Zyg/PTV-HD.jpg" group-title="BOLIVIA", PACEÑISIMA TV HD
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/centralptv/chunks.m3u8
@@ -54,7 +54,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4eNH7JS.png" group-title="BOLIVIA", IN TV (Bolivia)
-https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
+---
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tUUuRZR.png" group-title="BOLIVIA", GTV (Bolivia)
 
