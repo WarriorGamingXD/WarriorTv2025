@@ -22,7 +22,11 @@ https://seo.tv.bo/tv/IpSEO-TV-4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="BOLIVIA", TELECLASICA SD
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/16f8ed90cfdce23eb93131280ab06426.webp" group-title="BOLIVIA", XTREMA TV (Cine Acción)
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w1837144486.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHX89Zyg/PTV-HD.jpg" group-title="BOLIVIA", PACEÑISIMA TV HD
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/centralptv/chunks.m3u8
@@ -104,7 +108,7 @@ https://d2e599a9ekjlc5.cloudfront.net/480p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL LP
-
+https://live-c2.cf.dmcdn.net/sec2(cBK_5WLmqGb_91HLejkt5B4KQ-jag1NIJL3oxtEEczz8dBe4_z1yTpkOhPYhooj1eXsebh3K-893-FiiHxlqZuVcmZ0OI06-sdD7saerD6dhOWwTUfhx8u0hczBbg0Kj)/cloud/3/x7vsfua/d/live-480.m3u8#cell=lcfc2
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL BO
 
@@ -209,7 +213,7 @@ https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinerama-tv-bo.png" group-title="BOLIVIA", CINERAMA 1
-
+https://owncloud1692001.fasthostunlimited.com/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RNs3KM1.png" group-title="BOLIVIA", ANTv (Tarija)
 
