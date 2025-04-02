@@ -148,11 +148,17 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/in
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1z622f5R/1ztvhd.jpg" group-title="BOLIVIA", ZURACA TV HD
 https://envivo.bolivia-link.com:3099/live/ztvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0k89Wv/ssss.png" group-title="BOLIVIA", ZOY TV HD 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0k89Wv/ssss.png" group-title="BOLIVIA", ZOY TV HD (PLUS)
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0k89Wv/ssss.png" group-title="BOLIVIA", ZOY TV HD 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0k89Wv/ssss.png" group-title="BOLIVIA", ZOY TV HD (BOLIVIA)
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvbo/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0k89Wv/ssss.png" group-title="BOLIVIA", ZOY TV HD (TURCAS)
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvturcas/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0k89Wv/ssss.png" group-title="BOLIVIA", ZOY TV HD (SPORTS)
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvsports/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J76KpSjD/ctvklp.jpg" group-title="BOLIVIA", CTV HD
 https://live.ctvbolivia.com/hls/ctv.m3u8
@@ -170,7 +176,7 @@ https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://beta2.energeek.cl/wp-content/uploads/2023/03/LOGO-GOGOPLAY-WEB-1.png" group-title="BOLIVIA", GOGO PLAY BO
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplaysd/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygQsNvc/aaaa.jpg" group-title="BOLIVIA", MIX BOLIVIA TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8
