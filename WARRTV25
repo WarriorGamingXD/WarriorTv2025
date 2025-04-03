@@ -1568,7 +1568,6 @@ https://www.udrop.com/file/Lxqd/ejtc.mp4
 
 #EXTINF:-1 tvg-logo="https://decine21.com/img/upload/obras/inexpertos-48861/inexpertos-48861-c.jpg" group-title="ESTRENOS 2024", Inexpertos (2024)
 https://www.udrop.com/file/MkW0/Inexpertos.mp4
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GMVmmWFXQAAmVrd.png" group-title="ESTRENOS 2024",  Diddy (2024)
 https://www.udrop.com/file/Mtoc/Tmdy.mp4
 
@@ -1658,6 +1657,14 @@ https://www.udrop.com/file/NceM/CLSE99.mp4
 https://www.udrop.com/file/Mgji/CHVACAPUL.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81yvVwGhc3L.__AC_SX300_SY300_QL70_ML2_.jpg" group-title="PELICULAS FAMILIA", GHOST (1990)
 https://p5qxmilmdj.premilkyway.com/hls2/01/03422/d0g2kq6wnt7z_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=VMgw7ibAL6tzTYIgxjg0swIfYC70c3KsCFH6ZXToR2c&s=1743633239&e=129600&f=17114080&srv=zukkcg9r2ba2&i=0.4&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=6568
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71bR37yHm8L._AC_SX679_.jpg" group-title="PELICULAS FAMILIA", SUPERCOOL (2007)
+https://www.udrop.com/file/LxpT/spcool.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/17/12/04/03/54/3035297.jpg" group-title="PELICULAS FAMILIA", VACACIONES A TODA VELOCIDAD (2016)
+https://www.udrop.com/file/LxkL/atv.mp4
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/5100/5164/001_m.jpg" group-title="PELICULAS FAMILIA", Spot Un Perro Policia (2001)
+https://www.udrop.com/file/Mf94/Spot,_Un_perro_Policia_(2001).mp4
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ALP5gAuHhEo/Ta3ld68pIgI/AAAAAAAAAI0/xf7yx1oTsi4/s500/El-Mas-Buscado-En-Malibu.jpg" group-title="PELICULAS FAMILIA", El Mas Buscado de Malibu (2003)
+https://www.udrop.com/file/MtyA/embm2003.mp4
 
 
 
@@ -1711,22 +1718,7 @@ https://ye0r0rrinu.premilkyway.com/hls2/01/02932/icsnv0umcplg_,n,h,.urlset/index
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71bR37yHm8L._AC_SX679_.jpg" group-title="PELICULAS COMEDIA", SUPERCOOL (2007)
-https://www.udrop.com/file/LxpT/spcool.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/17/12/04/03/54/3035297.jpg" group-title="PELICULAS COMEDIA", VACACIONES A TODA VELOCIDAD (2016)
-https://www.udrop.com/file/LxkL/atv.mp4
-#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/5100/5164/001_m.jpg" group-title="PELICULAS COMEDIA", spot un perro policia (2001)
-https://www.udrop.com/file/Mf94/Spot,_Un_perro_Policia_(2001).mp4
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ALP5gAuHhEo/Ta3ld68pIgI/AAAAAAAAAI0/xf7yx1oTsi4/s500/El-Mas-Buscado-En-Malibu.jpg" group-title="PELICULAS COMEDIA", El Mas Buscado de Malibu (2003)
-https://www.udrop.com/file/MtyA/embm2003.mp4
-
-
-
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/depredador.jpg" group-title="⚡ SAGAS",Depredador 1 (1987)
 https://mx9skjnui4es.premilkyway.com/hls2/01/03334/qmiczqxx6bzn_,n,h,.urlset/index-f2-v1-a1.m3u8?t=2LaaYpVjmO6EU4iLjPc5i5LVsKcD0LlvhuEPycmxGow&s=1743688038&e=129600&f=16670266&srv=rj9uehaz0ybig4&i=0.4&sp=500&p1=rj9uehaz0ybig4&p2=rj9uehaz0ybig4&asn=6568
@@ -1894,29 +1886,27 @@ https://www.udrop.com/file/Ncf7/UKAMAU.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tinku El Encuentro 1985" tvg-logo="https://cdrproductora.com/wp-content/uploads/2020/03/BOLIVIA-CINEAR-780x315.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Tinku El Encuentro (1985)
 
 #EXTINF:-1 tvg-id="" tvg-name="SUENOS CUMPLIDOS" tvg-logo="https://cdrproductora.com/wp-content/uploads/2020/03/BOLIVIA-CINEAR-780x315.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",SUENOS CUMPLIDOS (2019)
-
+https://www.udrop.com/file/Ncfs/SUEÑOS_CUMPLIDOS.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sena/Quina, la inmortalidad del cangrejo (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW7NmxkivneCuqyeaZi4HGncL81.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Sena/Quina, la inmortalidad del cangrejo (2005)
-
+https://www.udrop.com/file/Ncfq/Sena_Qui.mp4
 #EXTINF:-1 tvg-id="" tvg-name="POR EL METAL DEL DIABLO LOS JUCUS NINJAS" tvg-logo="https://cdrproductora.com/wp-content/uploads/2020/03/BOLIVIA-CINEAR-780x315.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",POR EL METAL DEL DIABLO: LOS JUCUS NINJAS (2013)
 https://www.udrop.com/file/Ncf6/POR_EL_METAL.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Para recibir el canto de los pájaros (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f55lCmduxgv8kiIPLqnU7TiRzah.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Para recibir el canto de los pájaros (1995)
 
 #EXTINF:-1 tvg-id="" tvg-name="Pacha (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/do7sN9B1amoRfFDjbfJBgJkYxc4.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Pacha (2012)
-
+https://www.udrop.com/file/Ncfr/PACHA.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mi socio (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tuaTC6pMI6mjWLeei8JHk5TeF3.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Mi socio (1982)
 https://www.udrop.com/file/LDZ3/1983_-_Mi_Socio_1_(1983).mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los hijos del alcohol" tvg-logo="https://cdrproductora.com/wp-content/uploads/2020/03/BOLIVIA-CINEAR-780x315.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Los hijos del alcohol
-
 #EXTINF:-1 tvg-id="" tvg-name="Los hermanos Cartagena (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JBLDCxXG4v9E5Ruy0X3vhXtjvf.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Los hermanos Cartagena (1984)
 
 #EXTINF:-1 tvg-id="" tvg-name="Los gringos no comen llajua (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQp0O9pUUPc5xkt1HA5ocLrltzA.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Los gringos no comen llajua (2011)
-
+https://www.udrop.com/file/Ncfp/Los_Gringos_no_comen_llajua.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los Andes no creen en Dios (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulUzahc9Y8a7mApyFN0f8qdkErA.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Los Andes no creen en Dios (2007)
 
 #EXTINF:-1 tvg-id="" tvg-name="La nacion clandestina (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OXQN4nnkBcvcXHmdX8B3qifm0C.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",La nacion clandestina (1989)
-
+https://www.udrop.com/file/Ncfo/La_nación_clandestina.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La bicicleta de los Huanca (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfAzttPC1Bhz5ijuuxDAUVjSRD8.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",La bicicleta de los Huanca (2007)
-
+https://www.udrop.com/file/Ncfl/La_Bicicleta.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jonás y la ballena rosada (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2NM1C3whb5nslgLObmqLjNw0si.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Jonás y la ballena rosada (1995)
 
 #EXTINF:-1 tvg-id="" tvg-name="Insurgentes (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sLJKEIKkqZHj8ZSAIHUlHWBZ0v.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Insurgentes (2012)
@@ -1940,7 +1930,7 @@ https://www.udrop.com/file/Ncf8/EL_PUCHO.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Cementerio de los Elefantes (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4AoFwoAYP1OBJAbmFTgUjGjAUE.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Cementerio de los Elefantes (2009)
 https://www.udrop.com/file/Ncfb/CemeElefant.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Día de Boda de Rodrigo Ayala" tvg-logo="https://cdrproductora.com/wp-content/uploads/2020/03/BOLIVIA-CINEAR-780x315.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Día de Boda de Rodrigo Ayala
-
+https://www.udrop.com/file/Ncfj/Día_de_Boda.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cuestión de fe (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFVXuRlbKn2z0Lw6tRFhhdhhLYG.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Cuestión de fe (1995)
 
 #EXTINF:-1 tvg-id="" tvg-name="CON LAS ALAS ROTAS II Pelicula boliviana" tvg-logo="https://cdrproductora.com/wp-content/uploads/2020/03/BOLIVIA-CINEAR-780x315.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",CON LAS ALAS ROTAS II Pelicula boliviana
@@ -1950,22 +1940,21 @@ https://www.udrop.com/file/Ncfb/CemeElefant.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Con Las Alas Rotas (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TW7rZ9cYm4gFZvX26qZq9mOaCH.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Con Las Alas Rotas (2013)
 
 #EXTINF:-1 tvg-id="" tvg-name="Chuquiago (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7foRiWvd8QBCJEclhrDtaNTjVjW.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Chuquiago (1977)
-
+https://www.udrop.com/file/Ncfi/CHUQUIAGO.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Boquerón (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FkKp9opKZabNOgMMHNDRoFHizC.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Boquerón (2015)
-
+https://www.udrop.com/file/Ncfh/BOQUER.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bolishopping (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/re19qcoD7uOJMi0EUxL3qCRBlM2.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Bolishopping (2013)
-
+https://www.udrop.com/file/Ncfn/Bolishping.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Blackthorn. Sin destino (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QtOCerjSPkS9fo8IBwDr7qAwoj.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Blackthorn. Sin destino (2011)
-
+https://www.udrop.com/file/Ncfk/Blackthor.mp4
 #EXTINF:-1 tvg-id="" tvg-name="American Visa (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAaLTtKoKd0wjuEIVaUeU8dEBMu.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",American Visa (2005)
 https://www.udrop.com/file/LDZ0/2005_-_AMERICAN_VISA_(2005).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Amargo Mar (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9r5ptOZJZGNZHeAoddhuGQSxlYl.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",Amargo Mar (1984)
 
-
 #EXTINF:-1 tvg-id="" tvg-name="La Traicion (2019)" tvg-logo="https://cdn.bolivia.com/cine/2019/12/b05f88a548964f23ae774d966b91e1d8.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",La Traicion (2019)
 
 #EXTINF:-1 tvg-id="" tvg-name="La huerta (2013)" tvg-logo="https://i.ytimg.com/vi/hi6j6hw4ZWE/sddefault.jpg" group-title=" ⭐ PELICULAS BOLIVIANAS",La huerta (2013)
-
+https://www.udrop.com/file/Ncfm/La_Huerta.mp4
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1985,9 +1974,9 @@ https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mtrfWZH/ooooo.jpg" group-title="TEATRO BOLIVIA",  Teatro - El Calvario de mi Madre
 https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21120&authkey=AKgmqC-cbRO3Z94
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mh6mSj2/imagen-2022-09-23-195151496.png" group-title="TEATRO BOLIVIA",  Teatro - La Sanguchera de La Esquina
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mh6mSj2/imagen-2022-09-23-195151496.png" group-title="TEATRO BOLIVIA", La Sanguchera de La Esquina
 
-
+#EXTINF:-1 tvg-logo="https://cdrproductora.com/wp-content/uploads/2020/03/BOLIVIA-CINEAR-780x315.jpg" group-title="TEATRO BOLIVIA", Los hijos del alcohol
 
 
 
