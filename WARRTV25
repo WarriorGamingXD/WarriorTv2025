@@ -8,7 +8,7 @@ https://seo.tv.bo/tv/FIpSEO-TV-1.m3u8
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (YUNGAS)
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 1 (NOVELAS)
-https://seo.tv.bo/tv/FIpSEO-TV-3.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 2 (NOVELAS)
 
@@ -72,8 +72,6 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d2286c3a8f9cc98a7d2a4a9da93b28c.webp" group-title="BOLIVIA", MEGA TV BOLIVIA
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w625337577.m3u8
-https://usher.ttvnw.net/api/channel/hls/megavisionbo.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiNGQzZWE1YWEtZTZkZS00OWZjLWIzNDItYzlkNjdmZGM2MmRlIn0%3D&allow_source=true&browser_family=firefox&browser_version=137.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=4697268&parent_domains=twitchplayer&platform=web&play_session_id=0bd8a02eec225b895b28a10938fc35e4&player_backend=mediaplayer&player_version=1.39.0-rc.3&playlist_include_framerate=true&reassignments_supported=true&sig=c0fc253b0fbef93d34f038eab17ada75793224b2&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22megavisionbo%22%2C%22channel_id%22%3A793553002%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%225a9f7550ab28ccdf%22%2C%22expires%22%3A1744216121%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22twitch_everywhere%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.129.164.9%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1sdhJCC/AMITEL4-TV.jpg" group-title="BOLIVIA", AMITEL
@@ -166,7 +164,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvsports/chunks.m3u8
 https://live.ctvbolivia.com/hls/ctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/Abya-Yala-TV-tvtolive.com_.jpg" group-title="BOLIVIA", ABYA YALA TV
-https://seo.tv.bo/tv/IpSEO-TV-8.m3u8
+https://seo.tv.bo/tv/FIpSEO-TV-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3LYp4KCoxAtKuMgDN5S6kHSxFuA7qxQoUNftznmnzyjcDp4bgqe6CGSQ4YMdFJ4rDAM" group-title="BOLIVIA", AYNI TV
 https://envivo.bolivia-link.com:3906/live/aynitvlive.m3u8
@@ -196,7 +194,7 @@ https://solo.disfrutaenlared.com:1936/redcctv/redcctv/chunklist_w1692408575.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/058006d4193f70b3416d6aeefed09a44.webp" group-title="BOLIVIA", CANELA CINEMA
-https://ov.ottera.tv/channels/cnm_cn_mv/master550000.m3u8;session=cnm_cn_mv
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXMmDJt/LOG.png" group-title="BOLIVIA", EXTREMA TV ACCION
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w821796769.m3u8
@@ -253,7 +251,7 @@ https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg"group-title="BOLIVIA", ZOYTV KIDS HD
-https://stream.ads.ottera.tv/cl/250426d06hs1pu7pe72s0kp6vg/1280x720_3071200_0_f.m3u8?i=728_5444
+https://stream.ads.ottera.tv/cl/250502d0aj6v0i7vgr09dvtpj0/1280x720_3071200_0_f.m3u8?i=728_5444
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q50cC4c/LOGOS-TV-KIDS-HD.jpg" group-title="BOLIVIA", LOGOS TV KIDS
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w578670889.m3u8
