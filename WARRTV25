@@ -103,7 +103,7 @@ https://d3ew2cr4djta2j.cloudfront.net/480p.m3u8
 https://d2e599a9ekjlc5.cloudfront.net/480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL SCZ
-
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL LP
 
@@ -223,7 +223,7 @@ https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 https://owncloud1692001.fasthostunlimited.com/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RNs3KM1.png" group-title="BOLIVIA", ANTv (Tarija)
-
+https://list.iptvcat.com/my_list/s/255ca486acbf86af4a9ce43f8e3bf4b9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWKjVkb.png" group-title="BOLIVIA", Atesur
 
