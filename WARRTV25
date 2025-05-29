@@ -21,7 +21,7 @@ https://seo.tv.bo/tv/FIpSEO-TV-4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="BOLIVIA", TELECLASICA SD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/16f8ed90cfdce23eb93131280ab06426.webp" group-title="BOLIVIA", XTREMA TV (Cine Acción)
@@ -120,11 +120,14 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/ind
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atb-iturri-bolivia-logo-BB6422A6B0-seeklogo.com.jpg" group-title="BOLIVIA", ATB
 http://186.121.206.197/live/daniel/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atb-iturri-bolivia-logo-BB6422A6B0-seeklogo.com.jpg" group-title="BOLIVIA", ATB 2
+https://live.eu-north-1b.cf.dmcdn.net/sec2(f3MFltoldpPAZnqksyOGMou44WbkX5YhQlxenXIgzBvR703OzMiZbo4H-WPkuYKMaZqr9iZJWEVIZmBSB93S2MAa-nR0DHabNK7uqdQNyscrxw-fiolAJNq1h1NHw90c)/dm/3/x84eirw/s/live-480.m3u8#cell=lcf-eu-north-1b
+
 #EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png" group-title="BOLIVIA", F10 
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.redpat.tv/wp-content/uploads/2020/03/pat-digital-logo-512x512-1.png" group-title="BOLIVIA", PAT
-
+https://w8.redpat.tv:8000/play/12/68792849.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/889663440620531712/JlKtXQYa_400x400.jpg" group-title="BOLIVIA", GIGAVISION SCZ
 https://tinyurl.com/2fr5y2xx
@@ -148,16 +151,16 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/in
 https://envivo.bolivia-link.com:3099/live/ztvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0k89Wv/ssss.png" group-title="BOLIVIA", ZOY TV HD (PLUS)
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0k89Wv/ssss.png" group-title="BOLIVIA", ZOY TV HD (BOLIVIA)
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvbo/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0k89Wv/ssss.png" group-title="BOLIVIA", ZOY TV HD (TURCAS)
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvturcas/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0k89Wv/ssss.png" group-title="BOLIVIA", ZOY TV HD (SPORTS)
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvsports/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J76KpSjD/ctvklp.jpg" group-title="BOLIVIA", CTV HD
 https://live.ctvbolivia.com/hls/ctv.m3u8
@@ -175,13 +178,13 @@ https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://beta2.energeek.cl/wp-content/uploads/2023/03/LOGO-GOGOPLAY-WEB-1.png" group-title="BOLIVIA", GOGO PLAY BO
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplaysd/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygQsNvc/aaaa.jpg" group-title="BOLIVIA", MIX BOLIVIA TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="BOLIVIA", WOW TV HD
-https://stream.gia.tv/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1547450899_b2000000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YC5FRmq.png" group-title="BOLIVIA", RED CCTV (480p)
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/chunklist_w1692408575.m3u8
@@ -250,7 +253,7 @@ https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg"group-title="BOLIVIA", ZOYTV KIDS HD
-https://stream.ads.ottera.tv/cl/250502d0aj6v0i7vgr09dvtpj0/1280x720_3071200_0_f.m3u8?i=728_5444
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q50cC4c/LOGOS-TV-KIDS-HD.jpg" group-title="BOLIVIA", LOGOS TV KIDS
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w578670889.m3u8
