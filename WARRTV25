@@ -265,6 +265,9 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/energeek_1.png" group-title="BOLIVIA", Energeek Retro
 https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=dEmoweBeneRGEek2025
 
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/50_Locomotion.png" group-title="BOLIVIA", LOCOMOTION 
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="BOLIVIA", KPOP TV PLAY
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
@@ -293,9 +296,6 @@ https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HwknTD/AAAA.png" group-title="BOLIVIA", TOP CINE
 #EXTINF:-1 tvg-logo="https://i.ibb.co/177yQb3/logo-rtve-foo.png" group-title="BOLIVIA",Canal 50 RTVE PUNATA
 #EXTINF:-1 tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png" group-title="BOLIVIA", ERBOL TV
-
-
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9nkEZnDJ16JzcZm6cVP-y-RL0Xd3bo9WU9uiZZOg=s900-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", VOS TV
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1DYPzkDGsnWqzAQ2SiZOKA7Hi9CrNj1h6SpIup_yMJtTEHN9EKMPvD0nz8thRaCB1Lo&usqp=CAU" group-title="BOLIVIA", LEVEL UP TV
 #EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="BOLIVIA", Tigo Sports SD
@@ -679,13 +679,20 @@ https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v5.m3u8
 
 
 
-
+---------------------------------------------------------------------------------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/820140219341086720/KxASGHYH_400x400.jpg" group-title="MUSICA", PORTAL FOX MIX 
 
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png" group-title="MUSICA", VIDEO TOUR CHANNEL 
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png" group-title="MUSICA", TURBO MIX TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png" group-title="MUSICA", URBAN PRO DJ ✪ CL
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1181_Freestyledjs.png" group-title="MUSICA", FREESTYLDJS ✪ CL
 
 
@@ -731,6 +738,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png" group-title="MUSICA", VCLASSIC TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1607253387.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png" group-title="MUSICA", VClassicTV 2
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RSk6cDT/SPIRIT-TV-HD.jpg" group-title="MUSICA", SPIRIT TV HD
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
@@ -764,11 +774,23 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/6870715342361_1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fG7NJGp/descarga.jpg" group-title="MUSICA", VM LATINO
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w260922317.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/400_Red_Fueguina_Radio.png" group-title="MUSICA", RED FUEGUINA 
+https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaRhACw.png" group-title="MUSICA", Sipse TV Cancun 
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/389_Radio_Fantasia_TV.png" group-title="MUSICA", RADIO FANTASIA TV
+https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/vision-tv-musica.png" group-title="MUSICA", VISION TV MUSICA
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TM1ZkqzL/2.jpg" group-title="MUSICA", PLANETA TV CL
 https://tls-cl.cdnz.cl/planetatv/live/chunklist_w1933329821.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png" group-title="MUSICA", Video Tour Channel
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bd0b2cdfb531c24d007a03946ef00209.webp" group-title="MUSICA", X LEVEL MEDIA
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
