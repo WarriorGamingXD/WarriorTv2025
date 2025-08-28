@@ -23,10 +23,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/16f8ed90cfdce23eb93131280ab06426.webp" group-title="BOLIVIA", XTREMA TV (Cine Acción)
-https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w880785434.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHX89Zyg/PTV-HD.jpg" group-title="BOLIVIA", PACEÑISIMA TV HD
-https://vs20.live.opencaster.com/pacenisima_56e7702e/index.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/ptvonline/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s86a1480785a470a0/image/i3c8a4fed05168784/version/1615223208/image.jpg" group-title="BOLIVIA", COSMOS TV HD
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
@@ -83,7 +82,7 @@ https://stv2.boliviaplay.com.bo/hls/0/stream.m3u8
 https://node2.bitstreaming.net:3951/multi_live/play_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mvMRNou.png" group-title="BOLIVIA", TELE ESTRELLA 
-https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
+https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/chunklist_w630396429.m3u8
 
 #EXTINF:-1 tvg-logo="https://ceacomtv.com/wp-content/uploads/2020/12/Logo-CEACOM-01-e1608759749137.png" group-title="BOLIVIA", CEACOM ORURO
 https://eu1.servers10.com:8081/ceacom/index.m3u8
