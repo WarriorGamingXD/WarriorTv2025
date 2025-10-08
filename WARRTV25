@@ -433,15 +433,13 @@ https://tls-cl.cdnz.cl/radiosoberania/live/chunklist_w2084350720.m3u8
 
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IPTV
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TV PREMIUM", NICKELODEAON USA
-http://143.244.60.30/NICKELODEON/index.m3u8
- 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TV PREMIUM", NICKELODEAON SPA
-http://185.189.225.150:85/nickelodeon/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TV PREMIUM", Chile TV 
 https://v2.tustreaming.cl/chilechannel/index.m3u8
@@ -471,7 +469,6 @@ https://s.emisoras.tv:8081/tvcopan/index.m3u8
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TV PREMIUM", Canal 3 SV
-https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TV PREMIUM", Canal 6 SV
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
@@ -480,13 +477,13 @@ https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TV PREMIUM", Canal 11 SV 
-https://stream.giostreaming.net:19360/canal11/canal11.m3u8
+https://stream.giostreaming.app:19360/canal11/canal11.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TV PREMIUM", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TV PREMIUM", WOW TV SV 
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+https://cdn-startv.cef-technology.com/wow/wow_tv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TV PREMIUM", 8NTV México 
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
@@ -537,7 +534,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TV PREMIUM", Estrella TV
-https://apollo.production-public.tubi.io/live/ac-estrellatv.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TV PREMIUM", Estrella TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
@@ -978,175 +975,69 @@ http://tv1.halihost.fun:80/play/eC4EjgEognKPDU9u-2cpAjVOZDAxiOveQSfFzohaUnY/ts
 
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS 1
-http://tv.dominiotv.xyz:2095/live/Javierc3/60335577/273153.ts
-
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS 2
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/279755
-
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS 3
-
-
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS 4
-
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (1)
-http://novared.pro:80/play/fRpl9GCyzvDSGtmDI2PWV2UJYuf1PWwCvKQGktNZAPXuJGYPG1pX91MchsEHVnK2/ts
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (2)
-
-
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/358-3584145_gordon-shumway-could-be-heading-back-to-tv.png" group-title="24/7", ALF
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/279697
-
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/138-1382682_pagal-khana-mr-bean-logo-png.png" group-title="24/7", MR.BEAN SD
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/177113
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/9b/6d/76/9b6d765065d7e1628cf1570ae3125eec.jpg" group-title="24/7", LOS 3 CHIFLADOS
-
-
 #EXTINF:-1 tvg-logo="https://moviehaku.com/thumbs/films/400x590/Combat-.jpg" group-title="24/7", COMBATE
-
-
 #EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/EsnHP4ahwW2hRsfBldxZq4d8Tfg=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SNZ7YT7L6RFMTJTAJI7OEXC724.jpg" group-title="24/7", EL CHAVO DEL 8 (1) 
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/216295
-
-
 #EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/EsnHP4ahwW2hRsfBldxZq4d8Tfg=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SNZ7YT7L6RFMTJTAJI7OEXC724.jpg" group-title="24/7", EL CHAVO DEL 8 (2)
-http://tv.dominiotv.xyz:2095/live/Javierc3/60335577/87395.ts
-
 #EXTINF:-1 tvg-logo="" group-title="24/7", CHAPULIN COLORADO
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/72328
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/elchapulincolorado/images/6/65/CH_Logo_83.jpg/revision/latest/scale-to-width-down/200?cb=20201005171352&path-prefix=es" group-title="24/7", CHESPIRITO 
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/51343
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4f8wywd/images.jpg" group-title="24/7", AH QUE KIKO
 
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="24/7", CABALLEROS DEL ZODIACO 1
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/169799
-
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="24/7", CABALLEROS DEL ZODIACO 2
-
-
 #EXTINF:-1 tvg-logo="https://cdn.marvel.com/u/prod/marvel/i/mg/9/50/604be6b5d3c84/clean.jpg" group-title="24/7", ULTRAMAN
-
-
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/967/183/small/anime-eyes-vision-fire-pop-culture-logo-design-vector.jpg" group-title="24/7", ANIME
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ad99&deviceDNT=0&deviceModel=0
-
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/180-1807270_the-simpsons-icon-pack-by-orchid975-simpsons-family.png" group-title="24/7", SIMPSONS 01
-http://novared.pro:80/play/fRpl9GCyzvDSGtmDI2PWV5yLdCr5FNyLJHt7Wms5kWWeLjsusL0XGtaSuRKKJGXq/ts
-
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/180-1807270_the-simpsons-icon-pack-by-orchid975-simpsons-family.png" group-title="24/7", SIMPSONS 02
-http://novared.pro:80/play/fRpl9GCyzvDSGtmDI2PWV4iyWSIZoFggVPByFhPasamhnMfy6NDJlY69qWesAt-f/ts
-
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/180-1807270_the-simpsons-icon-pack-by-orchid975-simpsons-family.png" group-title="24/7", SIMPSONS 03 (HORROR)
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/107996
-
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/020446130490977.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="24/7", BOB ESPONJA 01
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=dddd&deviceDNT=0&deviceModel=0
-
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/020446130490977.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="24/7", BOB ESPONJA 02
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/169798
-
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/020446130490977.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="24/7", BOB ESPONJA 03
-
-
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/123-1237544_pink-panther-pantera-rosa-pink-panther-logo-png.png" group-title="24/7", LA PANTERA ROSA
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/55/17/86/551786c1cd62f3bdf08fa8b656d08fec.jpg" group-title="24/7", TOM Y JERRY
-
-
 #EXTINF:-1 tvg-logo="https://www.serietv.es/images/serie/GC/el-show-de-el-pajaro-loco-G.jpg" group-title="24/7", PAJARO LOCO SD
-
-
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_maascara_Serie_de_TV-424025709-large.jpg" group-title="24/7", LA MASCARA
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/279726
-
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/995e51790d54b9fb84a8cde789c9cc3a.png" group-title="24/7", LOS PICAPIEDRAS 1
-
-
 #EXTINF:-1 tvg-logo="https://tiempodeprensa.com/wp-content/uploads/2021/10/pica.jpg" group-title="24/7", LOS PICAPIEDRAS 2
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2_A4XlYQUuc/mqdefault.jpg" group-title="24/7", CORRE CAMINOS
-
-
 #EXTINF:-1 tvg-logo="https://i2.wp.com/cinicosdesinope.com/wp-content/uploads/2022/04/los-pitufos.jpg?fit=504%2C768&ssl=1" group-title="24/7", PITUFOS
-
-
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/427/624/png-clipart-dinosaurs-series-and-season-folder-icons-dinosaurs-thumbnail.png" group-title="24/7", DINOSAURIOS
-
-
 #EXTINF:-1 tvg-logo="https://carteleradeteatro.mx/wp-content/uploads/2017/05/005.jpg" group-title="24/7", MASHA Y EL OSO
-
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51qdX2jG6YL._AC_SX425_.jpg" group-title="24/7", PEPPA PIG
-
-
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.3787542886.1970/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7", PAW PATROLL
-
-
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/a17f85be1b6b82fa33f5ac149952ca73.png" group-title="24/7", PLIM PLIM
-
-
 #EXTINF:-1 tvg-logo="https://b.thumbs.redditmedia.com/ipIp5ryLPvDCZ7fUrZvBUMKBe24YBeIx_6JCbS6T21E.png" group-title="24/7", SOUTH PARK
-http://novared.pro:80/play/fRpl9GCyzvDSGtmDI2PWV7rct5CE62iNlt8iTYve9dgKzLwOnb7iKLYIMro7CN5Y/ts
-
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/14-145291_digimon-logo-png-transparent-png.png" group-title="24/7", DIGIMON
-
-
 #EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/duel_monsters.png" group-title="24/7", YU-GI-OH!
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/177368
-
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/b1c279f5e4f5d88cfe6b814ff9e00fff.png" group-title="24/7", POKEMON
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/169812
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2e/90/10/2e90102e5cf32c96e5bbc436938f8c6d.png" group-title="24/7", SUPERCAMPEONES
-
-
 #EXTINF:-1 tvg-logo="https://tierragamer.com/wp-content/uploads/2019/04/dragon-ball-z-logo-es-una-z-n-o-un-2.jpg" group-title="24/7", DRAGON BALL 1
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/216844
-
 #EXTINF:-1 tvg-logo="https://tierragamer.com/wp-content/uploads/2019/04/dragon-ball-z-logo-es-una-z-n-o-un-2.jpg" group-title="24/7", DRAGON BALL 2
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/216939
-
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/1013/941/301/logo-dragon-ball-gt-anime-original-04-dragonball-gt-illustration-png-clipart.jpg" group-title="24/7", DRAGON BALL GT 1
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/169802
-
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/1013/941/301/logo-dragon-ball-gt-anime-original-04-dragonball-gt-illustration-png-clipart.jpg" group-title="24/7", DRAGON BALL GT 2
-
-
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/769/118/png-clipart-dagron-ball-super-logo-dragonball-super-logo-thumbnail.png" group-title="24/7", DRAGON BALL SUPER
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/169803
-
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/robotech_tv_series-991188406-mmed.jpg" group-title="24/7", ROBOTECH 
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/169813
-
 #EXTINF:-1 tvg-logo="https://tooys.mx/media/catalog/product/cache/39c7ff5a74bd9fa282a021db605b774d/p/o/power-rangers-corre-green_power-rangers_six-pack_threezero_00_1_1.jpg" group-title="24/7", POWER RANGERS
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/221366
-
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/12/20/vintage-tooFns-retro-cartoon-character-smiley-vector-6381220.webp" group-title="24/7", RETRO CARTOONS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/002/490/496/small/old-retro-tv-isolated-icon-free-vector.jpg" group-title="24/7", TV RETRO
-https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="24/7", LOCOMOTION
-
-
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4ef223a464479139e59d833c2b885a14730ee1dce26df54bdaf66bf39446040b._RI_V_TTW_SX360_FMwebp_.jpg" group-title="24/7", JIMMY NEUTRON
-
-
 #EXTINF:-1 tvg-logo="https://p4.wallpaperbetter.com/wallpaper/914/510/345/tv-show-dexter-s-laboratory-dexter-tv-show-wallpaper-preview.jpg" group-title="24/7", DEXTER
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/6414.ts
 
 
 
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1223,7 +1114,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/featuredImage.jpg" group-title="PLUTO TV1", Masterchef
 https://stitcher.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 #EXTINF:-1 group-title="PLUTO TV2" ,LA SELECCION 
@@ -1315,7 +1206,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e299600076
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="ENTRETENIMIENTO", MTV Shore 24/7
@@ -1333,9 +1224,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/swG66Sz/descarga.png" group-title="ENTRETENIMIENTO", DPELICULA HD 
 #EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/3efb0842292e7dbce9a096b0784a67a1.png"group-title="ENTRETENIMIENTO", CSI: Miami 
 #EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/83bd7fa9f427f283e95d42baea68853c.jpg" group-title="ENTRETENIMIENTO", Retro Chile
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/Syfy-logo-2017-2.png?w=246&h=246&crop=1&ssl=1" group-title="ENTRETENIMIENTO", SYFY (LAT)
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260606
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/warfare-534208810-large.jpg" group-title="ESTRENOS 2025", WARFARE 2025
 https://www.udrop.com/file/NwTN/W4RF4R.mp4
@@ -1382,15 +1277,15 @@ https://www.udrop.com/file/Mf0R/El_P_D_D_(2013).mp4
 #EXTINF:-1 tvg-logo="https://www17.pelisplushd.to/poster/antes-de-partir-thumb.jpg" group-title="PELICULAS VARIOS", ANTES DE PARTIR (2015)
 https://www.udrop.com/file/Mf9E/ANTES_DE_PARTIR_(2015).mp4
 #EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/2132/2132_173x256.jpg" group-title="PELICULAS VARIOS", NEED FOR SPEED
-https://m5qilv3g2l.premilkyway.com/hls2/01/03326/3xfgw6mgodrl_n/index-v1-a1.m3u8?t=t7XZqNLQEEHcduS87eBCfx7yi1AbRXxI02aVFgg06dg&s=1743693535&e=129600&f=16634957&srv=galk8e9m4l6if&i=0.4&sp=500&p1=galk8e9m4l6if&p2=galk8e9m4l6if&asn=6568
+
 #EXTINF:-1 tvg-logo="https://parecidas.com/img_es/movie/thumb/3a/18932.jpg" group-title="PELICULAS VARIOS", NACIDO PARA CORRER 1 (2011)
 https://www.udrop.com/file/NceL/BorRAC.mp4
 #EXTINF:-1 tvg-logo="https://16.cuevana4.me/wp-content/uploads/2019/11/nacido-para-correr-2-velocidad-maxima.jpg" group-title="PELICULAS VARIOS", NACIDO PARA CORRER 2 (2014)
 https://www.udrop.com/file/Nczs/Nacido_para_Correr_2.mp4
 #EXTINF:-1 tvg-logo="https://www.sonyvideo.com.mx/media/packshots/url/pasajeros_digital.jpg" group-title="PELICULAS VARIOS", PASAJEROS (2016)
-https://g6m5vwc8rl.premilkyway.com/hls2/01/03616/2mv2jrgleeus_,n,h,.urlset/index-f2-v1-a1.m3u8?t=hZrvo8VK7ymx-DMlTz6owP8e-kG1JW_2VNPzQ70oyfw&s=1743802309&e=129600&f=18080359&srv=rj9uehaz0ybig4&i=0.4&sp=500&p1=rj9uehaz0ybig4&p2=rj9uehaz0ybig4&asn=6568
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91zK+UDTVZL._SY445_.jpg" group-title="PELICULAS VARIOS", RAPIDO Y FURIOSO 1
-https://mx9skjnui4es.premilkyway.com/hls2/01/02938/ggj8th2ou0hz_,n,h,.urlset/index-f2-v1-a1.m3u8?t=6trQl2CLCGDsylb5tzk0W-xi6pTPnRYkg6y6PwLFfhM&s=1743694949&e=129600&f=14691821&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=6568
+
 #EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/19077/19077_173x256.jpg" group-title="PELICULAS VARIOS", RAPIDO Y FURIOSO 2
 https://www.udrop.com/file/LKM1/ryf2.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cLw7ZJjoz78/hqdefault.jpg" group-title="PELICULAS VARIOS", RAPIDO Y FURIOSO 3
@@ -1398,19 +1293,19 @@ https://www.udrop.com/file/LKM2/ryd3.mp4
 #EXTINF:-1 tvg-logo="https://clan-rodriguez.com/wp-content/uploads/2022/08/rf4.jpg" group-title="PELICULAS VARIOS", RAPIDO Y FURIOSO 4
 https://www.udrop.com/file/LKMa/ryf4.mp4
 #EXTINF:-1 tvg-logo="https://www.impactohd.cl/58233/dvd-rapidos-y-furiosos-5-usada.jpg" group-title="PELICULAS VARIOS", RAPIDO Y FURIOSO 5
-https://cv9fqnu812v.premilkyway.com/hls2/01/04820/bqh7phpklqn0_,l,n,.urlset/index-f2-v1-a1.m3u8?t=O8alm2JtLW5RGOjXeSuKv-JcR_HTRuqN0-IGzzv7pY4&s=1743694988&e=129600&f=24100192&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6568
+
 #EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/peliculas/fast-furious-6.jpg" group-title="PELICULAS VARIOS", RAPIDO Y FURIOSO 6
-https://82psw98llfa.premilkyway.com/hls2/01/03285/revxds9qmjg7_,n,h,.urlset/index-f2-v1-a1.m3u8?t=BsrGJm9ozz4qYRoszZ3jlsZsk--erDf2-nWiAbAT5-A&s=1743695028&e=129600&f=16426598&srv=pg8s50jw8kzp&i=0.4&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=6568
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91A1TGz2j9L._AC_UF894,100" group-title="PELICULAS VARIOS", RAPIDO Y FURIOSO 7
-https://cyyroro04xrqr.premilkyway.com/hls2/01/03384/n73581c7fn7m_n/index-v1-a1.m3u8?t=qCT9AUh52wPVvoadVcoRbCRA_StCU1ICl7Hc3ZJ3X7M&s=1743695069&e=129600&f=16921383&srv=dwjdqozeoybz&i=0.4&sp=500&p1=dwjdqozeoybz&p2=dwjdqozeoybz&asn=6568
+
 #EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/39850/39850_173x256.jpg" group-title="PELICULAS VARIOS", RAPIDO Y FURIOSO 8
-https://g4vsrqvtrj.premilkyway.com/hls2/01/03706/5g9ozzewzp1u_n/index-v1-a1.m3u8?t=mn_nE9sSY4p1tue2BO5fSgyAkYe4kFfdKh-7RECvd5o&s=1743695101&e=129600&f=18532272&srv=vy7cie2tqwc2cgp&i=0.4&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=6568
+
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg" group-title="PELICULAS VARIOS", RAPIDO Y FURIOSO 9
-https://62lcxnbxr456.premilkyway.com/hls2/01/04820/aa5sflj56f6o_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Ap9ID6vgcTzQsI_ePwfixUw_5To0Ed6RC5-5gkm6RMc&s=1743695131&e=129600&f=24100349&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6568
+
 #EXTINF:-1 tvg-logo="https://static.cinepolis.com/img/peliculas/42113/1/1/42113.jpg" group-title="PELICULAS VARIOS", RAPIDO Y FURIOSO 10 (2023)
-https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/02908/0wqg4r0mjlnr_,n,h,.urlset/index-f2-v1-a1.m3u8?t=GNbr4ShWbR52rHuYIdFHWPWw1HZkG9dSKSexkCYMNV4&s=1743695170&e=129600&f=14540439&srv=galk8e9m4l6if&i=0.4&sp=500&p1=galk8e9m4l6if&p2=galk8e9m4l6if&asn=6568
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rapidos-y-furiosos-hobbs-y-shaw.jpg" group-title="PELICULAS VARIOS", RAPIDO Y FURIOSO: Hobbs & Shaw (2019)
-https://a99wtmgqgife.premilkyway.com/hls2/01/04044/c3iloux4x1hm_,n,h,.urlset/index-f2-v1-a1.m3u8?t=AliWLKH77aD3f3r8GQCHh21e3olxMnXJ-DnvutCcLvA&s=1743695202&e=129600&f=20221307&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6568
+
 #EXTINF:-1 tvg-logo="https://cdn.bolivia.com/cine/2023/9/mira-12-horas-para-el-fin-del-mundo-42257.jpg" group-title="PELICULAS VARIOS", 12 HORAS PARA EL FIN DEL MUNDO (2022)
 
 
