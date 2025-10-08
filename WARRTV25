@@ -12,6 +12,35 @@ https://seo.tv.bo/tv/SEO_-TV-4.m3u8
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 1 (DEPORTES)
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 2 (DEPORTES)
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efea896119450ed5bdc725f270cf31ec.webp" group-title="BOLIVIA", CINEMA HD
+https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bb42115ec41fea4ac36dec93b294d2e2.webp" group-title="BOLIVIA", RUNTIME SP
+https://run-rt-uh.otteravision.com/run/rt_uh/rt_uh_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c06eb0cf2c420d1709dbb62d1754381d.webp" group-title="BOLIVIA", GUAYMATE TV 
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e3bb923a6e42d39bca3d8b1869e2eb3.webp" group-title="BOLIVIA", FREE TV ACCION
+https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b680a8c006f286330d002cbaf60aeaf.webp" group-title="BOLIVIA", FREE TV FAMILIA
+https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7dd923570b66f31b6acbffb18de481ab.webp" group-title="BOLIVIA", FREE TV ESTELAR
+https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/508d57285ddb9547199cbede4ba72f19.webp" group-title="BOLIVIA", FREE TV DRAMA
+https://amg01024-olympusat-cinereallatam-ono-ad-z5.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/abb2072bbd91067dea9ef6dd9be705de.webp" group-title="BOLIVIA", FREE TV LIVE
+https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95b03ec39e2ed29147f06d3836242ee5.webp" group-title="BOLIVIA", CANAL+
+https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="BOLIVIA", TELECLASICA SD
 https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
@@ -86,6 +115,9 @@ https://eu1.servers10.com:8081/ceacom/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgscxnc/LATINA-HD.jpg" group-title="BOLIVIA", TV LATINA HD
 https://castv10.plugstreaming.com:19360/redtv/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86d786223e6cb417c86e17d4d7e61bc6.webp" group-title="BOLIVIA", CANELA TV
+https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="BOLIVIA", RTP
 https://rtp.noxun.net:444/hls720/stream3.m3u8
@@ -698,7 +730,7 @@ https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w975564201.m3u8
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c128d72377e728f2a8bda83f7bdb5d26.webp" group-title="MUSICA", OTTO FM (ITALIA)
-https://panel.tvstream.cl:1936/8034/8034/chunklist_w1673589452.m3u8
+https://panel.tvstream.cl:1936/8034/8034/chunklist_w1872087551.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c128d72377e728f2a8bda83f7bdb5d26.webp" group-title="MUSICA", OTTO FM (ITALIA) 2
 
@@ -752,7 +784,7 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.
 https://inliveserver.com:1936/11530/11530/chunklist_w947298058.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6720c003e5adc507e1cd29a6af87ec4a.webp" group-title="MUSICA", THE RETRO CHANNEL
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w1131464673.m3u8
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w411985038.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="MUSICA", MUNDO MUSICA TV
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f4198d87d89cb9c37e5131ce79f122c9.webp" group-title="MUSICA", CAROLINA TV
@@ -761,7 +793,7 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w113146467
 https://5eaccbab48461.streamlock.net:1936/8076/8076/chunklist_w1564641186.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c9586bb20d5d3b912d6a1d7ee4aca0e8.webp" group-title="MUSICA", DELUXE MUSIC
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/6870715342361_13018905_2507110205_2.m3u8
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/68e5c6d088187_13018905_2510080205_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fG7NJGp/descarga.jpg" group-title="MUSICA", VM LATINO
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w260922317.m3u8
@@ -803,13 +835,15 @@ http://k3.usastreams.com/CableLatino/88stereo/chunklist_w1797552241.m3u8
 https://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/801a44a53c757e515e4814c1e91a65b4.webp" group-title="MUSICA", PANAVISION TV
-https://vcp.myplaytv.com/panavision/panavision/chunklist_w2117318361.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47ac07aab03b6b374cf69559675aa648.webp" group-title="MUSICA", CARIÑOSA TV
+https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/chunklist_w500402127.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1235f95edc1538206e1ca47de34c5608.webp" group-title="MUSICA", OXIGENO TV
-https://sae12.playlist.ttvnw.net/v1/playlist/CsEGtoLzYp-dbHdSaZx_raTF6ubRUzEp51GY4GGoW4HTlnSehSPSxnGtiKQUfB44qsJVTHLJYhjB209IkJlM3dOfhEKtmD9JVlyeUPTYR18Th1bTAJ5LCkTimd_3zlDoQ18OuocotAxXVwNp85dbLAIgPOAdvZfqO_R6szLPUurLvovryEB3O1qTDdD6g85FSxxqHP47rKpzElqWX_o_20_dfbR_ApCMfifffN9im0G8OkaxCWSriJ1Rhyuqn_2b8kk-SwMqd40jTXq4hYoevj-BnhlTMEzGoH9JGVnZQeiK7VPgFqFMBYvudLrQ7V5iqwxnCCQ5i5b2FA7TVr0BNXaxmkUWWwM77HZlfENlS-O4FVlvB_GuI62U59EmE_1kJlYCaQazNEHITkDWz967qPNcJLBK6ifHA9AxDfa0OlC9sfJBbjrvD3zFRMTLnP5_vSDtjBgYw72b-FGGde_0BN4a_o3ywwd1g2SxIHHgXJIs5Q5z7VF4uBXxq3foxVb_YxHbPOzEwcVLJMiEmBG0ObtEAXHvFi5EnB7whTrffe3NkUoThKFx2FWB2arM-B4GBXrJNDs10jv349myxyt4b_pzJxgBDy-I_gYHQsI7yCPUbsee5PyW9HPYewAmK4fh3aM1xHl-J4VxHWb9uTxI5WCerrnSl7hMQZOujwLjZHqAeXTfNDQo9g_cOvCuyBKqLMSnRWbwcIxr2WX6vmbcY1bVrTxfSTwU-FnvJrUOVClhVKOGXTA-o2TCIIMfW1z9XSz3u_RV05uZsD0ef_sgu2BrzWdVuHj3cmqXB6wwMi2Ajupa-KRpnwV-hZxmBqzT7FU44FLLYZS2rWNXRKdZki07_vhK_vcOyeOySZVLcfdUtyakWOsU2sa8BDcFlKvIwLhI-BdfxEMj9FFskNe5gToc0sfHstgkl9s5qtJlrvODj98jhATCsxzBFmUHCS5HTuk4A-DSJpndXX8D1lq3N4s4a9-WHi32CHpsmiXhvB7sZBj2wKuW00_oMZ1IX-_Mk4e-ECfSauj-zP6lkdeKfyISpRxjuoP_K6V_sMzBjYYvWoqzG9of7GijqC_R8e4Yc1Kw6_929mXacfCGsjXGlP7E3nUaDChyeWtTPv4clqUxJiABKgl1cy1lYXN0LTIw3Aw.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5536c18c8dc6b2ee955e65c59720b9c3.webp" group-title="MUSICA", TRACE LATINA
-https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/cb553d177b6c648c93d43e60d4ef42a2da2402fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac5a243e517e9b9ab565d980027ee78b547535b17a1f51fe0f15d135257bcbec1c079d72e42b525db84b2a0565d4bc0aae735bd883098f7e348aac8837242f0b5b9a405ce3a659a5fcb40b13dc6ba3d3ab79af0d7d260a9df8fe2ec9ffc66cec1cda2fb74dccb0d8b1e173f3a60fb7646598593a57376991c0589ecc4fbfd99b1354f4e4a9c87f27808f92be7e3d9c0503346c7e45de179e3fb4ff01847036a9149942813e9e64ea0da2a162a1ed8bde580b59f6803300564ef0b1f196d5631d1f26901f9c9d15a8565e1666c468ca2b2839dfd1ca2bb4c20fac4642ef84441222c99d499ad2e7cdbff0c57d952bcec8e38b7d6c7a235552c80df9da5ad2278b2cf38e0b77081604bf8c0f95d48e10602b0fa1855ddf1c54eb8bdad38f5f6b9b203d53fa65df541d239d663b32b55f8cf0565b80280e8a222ebb0965f225d28c6ca4f795b57c7edfb9ea4de566e3b90ba88724a07f395f0dabb2611f724573d4e1711e721ee740f7d8deee670361beefac1ea1e0dd8aea71d52f2001a658d5c7f3738edd69e00073/2/848x480_1249600/index.m3u8
+https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/ts-us-e2-n1/playlist/amg01131-tracetv-tracelatina-xiaomi/cb543d177b6c648c93d43e60d4ef48a0f9661fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87ea341763a1d759e9bac7bc089655ce183503528b37b1e51ff0e14c0530a60dcef1510ca6ce12a4b43aa4d3f0363d9bc0fa8234f94840fdf62288afbdd7c6874525a825e0cb1f256a1a9e95d4dd96ec3062d72b717846f5d73e3e66ec492e329c11fdf30a845bfbacab9b061a21845ae9b7d8f07064d3675d9a17496db54b5dbe0045109f0a6276c33caa2d3ce4f26c4072bc87971aacd04d369b8ad20916125af01954a8a24852bae0ce7cd4fe09dbac508216be0ac3a10c9b5f4dbe71b6593c4bbc954a8331a4d39bc7a594acc7fd1212a77bcfcf42485d92f66d749b599660731cc9d44d4c8fcd3aff8ba439221c5d0e7d813760e32544cd606e2ad64d57f8923e8d64575070d56bbc00490d5970e792268838355db5c49e98adbd38e5e6a8a461248ed66d6434a3d9867222c975893f00b6587220592267daa0847e76cc8f87da5e98b9f4351d2f3c858f663e3b470a3d00bbb683a561af3bf6c684c4279dff9754f575dc656efc7c5f17d6b55b817ac402ba99f613198f881d2366f2d3387c66a35cd767b/54/848x480_1249600/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e305e10aa5db2b619987be7e4d298f9a.webp" group-title="MUSICA", FUEGO TV
 https://video.misistemareseller.com/Fuegotv/Fuegotv/chunklist_w738075556.m3u8
@@ -830,7 +864,7 @@ https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1ec207973e9d77464bbcbca449817553.webp " group-title="MUSICA", MY3 TV
-https://streaming.televizor-24-tochka.ru/live/618.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/30cbd253a49803e01f43373bd0824c18.webp" group-title="MUSICA", OCKO GOLD TV
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist_b2628000.m3u8
@@ -839,7 +873,7 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklis
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d431b1ede93f4917099cc19c2b747e7f.webp" group-title="MUSICA", GO RTV 
-https://5dc143936e9ae.streamlock.net/gotvsjoerd/gotvsjoerd/playlist.m3u8?token_endtime=1752445232&token_starttime=0&token_hash=1PaN55xFnRTZ9udfARpNzHaY2XywyZKXNw0ELghGzxo=
+https://68039941ee8f7.streamlock.net/gotvsjoerd/gotvsjoerd/chunklist_w1740555682_tkdG9rZW5fZW5kdGltZT0xNzYwMTEwOTY5JnRva2VuX3N0YXJ0dGltZT0wJnRva2VuX2hhc2g9WGZVX0pLRkdhdUhyVkE2NHpyRDdFZ3BBdDBvOGtZN21RWDJ6MFI1bEVWVT0=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/152ab10b638076a3dfa6cedf58d5f4a5.webp" group-title="MUSICA", 1 MUZ (HD)
 http://hz1.teleport.cc/HLS/HD.m3u8
