@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svT6rGQz/SEO.jpg" group-title="BOLIVIA", SEO TV (HD)
-https://seo.tv.bo/tv/SEO_-TV1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svT6rGQz/SEO.jpg" group-title="BOLIVIA", SEO TV (PELICULAS)
 https://seo.tv.bo/tv/SEO_-TV4.m3u8
@@ -18,7 +18,6 @@ https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/pl
 https://run-rt-uh.otteravision.com/run/rt_uh/rt_uh_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c06eb0cf2c420d1709dbb62d1754381d.webp" group-title="BOLIVIA", GUAYMATE TV 
-https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e3bb923a6e42d39bca3d8b1869e2eb3.webp" group-title="BOLIVIA", FREE TV ACCION
 https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/1080p-cc/index.m3u8
@@ -65,9 +64,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wZX5TT6Q/images.jpg" group-title="BOLIVIA", BOLIVIA PUNTO TV
 https://streaming.hostpannel.lat:19360/puntotv/720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="BOLIVIA", CANAL 57
-https://stream-167790.castr.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v1/index.fmp4.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4eNH7JS.png" group-title="BOLIVIA", IN TV (Bolivia)
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 
@@ -84,7 +80,6 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d2286c3a8f9cc98a7d2a4a9da93b28c.webp" group-title="BOLIVIA", MEGA TV BOLIVIA
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1sdhJCC/AMITEL4-TV.jpg" group-title="BOLIVIA", AMITEL
 https://stv2.boliviaplay.com.bo/hls/0/stream.m3u8
@@ -156,7 +151,6 @@ https://tv2.bitstreaming.net:3235/multi_live/play_240.m3u8
 https://seo.tv.bo/tv/TVOFF.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DPjNLgVY/PAT.jpg" group-title="BOLIVIA", PAT
-https://w8.redpat.tv:8000/play/12/32548140.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/889663440620531712/JlKtXQYa_400x400.jpg" group-title="BOLIVIA", GIGAVISION SCZ
 
