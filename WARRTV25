@@ -39,16 +39,11 @@ https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86d786223e6cb417c86e17d4d7e61bc6.webp" group-title="BOLIVIA", CANELA TV
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95b03ec39e2ed29147f06d3836242ee5.webp" group-title="BOLIVIA", CANAL+
 https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="BOLIVIA", TELECLASICA SD
 https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/16f8ed90cfdce23eb93131280ab06426.webp" group-title="BOLIVIA", XTREMA TV (Cine Acción)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHX89Zyg/PTV-HD.jpg" group-title="BOLIVIA", PACEÑISIMA TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/ptvonline/chunks.m3u8
@@ -63,37 +58,22 @@ https://canaletaplus.com:3922/live/cosmoslive.m3u8
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w418830166.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WPZsd2V/1.png" group-title="BOLIVIA", Turbion Digital TV
-
-
-
-
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA ACCION CLASSICS FHD
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HORROR CLASSICS FHD
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA COMEDIA FHD
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", PELICULAS INFANTILES FHD
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HORROR FHD
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HAPPY MADISON FHD
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA DC UNIVERSE
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA DISNEY FAMILY FHD
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA FAMILIA FHD
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE DREAMWORKS FHD
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE MARVEL 1
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE MARVEL 2
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA ACCION FHD
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA PIXAR FHD
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA NAVIDAD
-
+https://live20.bozztv.com/akamaissh101/ssh101/turbion/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YhHQhj/images.jpg" group-title="BOLIVIA", NEOTV HD 1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jZ7g58e.png" group-title="BOLIVIA", FAP TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wZX5TT6Q/images.jpg" group-title="BOLIVIA", BOLIVIA PUNTO TV
+https://streaming.hostpannel.lat:19360/puntotv/720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="BOLIVIA", CANAL 57
+https://stream-167790.castr.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4eNH7JS.png" group-title="BOLIVIA", IN TV (Bolivia)
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUUuRZR.png" group-title="BOLIVIA", GTV (Bolivia)
+#EXTINF:-1 tvg-logo="https://fortalezatvcueto.com/wp-content/uploads/2023/07/cropped-315216047_811028960305358_13880382899710505_n-1.jpg" group-title="BOLIVIA", FORTALEZA TV
+https://live-stream.iblups.com/video/68fe7d84cbd05c3c32e1e31b35931a691d59df16.m3u8
 
 #EXTINF:-1 tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2022/03/LOGO-TDT.png" group-title="BOLIVIA", TDT HD
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w2018357403.m3u8
@@ -294,7 +274,21 @@ https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA ACCION CLASSICS FHD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HORROR CLASSICS FHD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA COMEDIA FHD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", PELICULAS INFANTILES FHD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HORROR FHD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HAPPY MADISON FHD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA DC UNIVERSE
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA DISNEY FAMILY FHD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA FAMILIA FHD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE DREAMWORKS FHD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE MARVEL 1
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE MARVEL 2
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA ACCION FHD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA PIXAR FHD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA NAVIDAD
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="BOLIVIA", WOW TV HD
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3LYp4KCoxAtKuMgDN5S6kHSxFuA7qxQoUNftznmnzyjcDp4bgqe6CGSQ4YMdFJ4rDAM" group-title="BOLIVIA", AYNI TV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwzMd603/BIGTV01.jpg"  group-title="BOLIVIA", BIG TV HD
