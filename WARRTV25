@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="BOLIVIA", SEO TV (HD)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svT6rGQz/SEO.jpg" group-title="BOLIVIA", SEO TV (HD)
 https://seo.tv.bo/tv/SEO_-TV-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="BOLIVIA", SEO TV (PELICULAS)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svT6rGQz/SEO.jpg" group-title="BOLIVIA", SEO TV (PELICULAS)
 https://seo.tv.bo/tv/SEO_-TV-4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (KIDS)
@@ -156,7 +156,7 @@ https://tv2.bitstreaming.net:3235/multi_live/play_240.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pjZ15FyK/PAT.jpg" group-title="BOLIVIA", TV OFF
 https://seo.tv.bo/tv/TVOFF.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.redpat.tv/wp-content/uploads/2020/03/pat-digital-logo-512x512-1.png" group-title="BOLIVIA", PAT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPjNLgVY/PAT.jpg" group-title="BOLIVIA", PAT
 https://w8.redpat.tv:8000/play/12/47751684.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/889663440620531712/JlKtXQYa_400x400.jpg" group-title="BOLIVIA", GIGAVISION SCZ
