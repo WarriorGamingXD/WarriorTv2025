@@ -105,10 +105,10 @@ https://castv10.plugstreaming.com:19360/redtv/1080p.m3u8
 https://rtp.noxun.net/hls720/stream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="BOLIVIA", BOLIVIA TV 1
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(iVS7GFMumMIicdnGMdWsX1bVqOiK-qS_dRDFB23wOeoujpUnHrqcOCzFBysGvKR62-RpwdeY59bnUJ3ePhyn9KkDWz2QlOplVhc-_x5VOTH_vrFbQ5WtkntEiP5Be6qp)/cloud/3/x9nzqpo/d/live-480.m3u8#cell=lcf2-eu-north-1a
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="BOLIVIA", BOLIVIA TV 2
-
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(Q8S0MAfPF-C8Gcjs_SkzR9UOEgTVsN_NR5TE8FH2uz4Z4e2_uE_uzqXp_0GWPgxKCo_PnP83wFm_fljGUNZIzFxzqzcBv_5DFbnaQRKQRr8yC5aWVO7lUQndg7MW4bbX)/cloud/3/x9ny70y/d/live-480.m3u8#cell=lcf2-eu-north-1a
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", BOLIVISION LP
 https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/medialist_15609871089997455276_hls.m3u8
