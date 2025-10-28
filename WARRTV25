@@ -105,10 +105,8 @@ https://castv10.plugstreaming.com:19360/redtv/1080p.m3u8
 https://rtp.noxun.net/hls720/stream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="BOLIVIA", BOLIVIA TV 1
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(iVS7GFMumMIicdnGMdWsX1bVqOiK-qS_dRDFB23wOeoujpUnHrqcOCzFBysGvKR62-RpwdeY59bnUJ3ePhyn9KkDWz2QlOplVhc-_x5VOTH_vrFbQ5WtkntEiP5Be6qp)/cloud/3/x9nzqpo/d/live-480.m3u8#cell=lcf2-eu-north-1a
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="BOLIVIA", BOLIVIA TV 2
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(Q8S0MAfPF-C8Gcjs_SkzR9UOEgTVsN_NR5TE8FH2uz4Z4e2_uE_uzqXp_0GWPgxKCo_PnP83wFm_fljGUNZIzFxzqzcBv_5DFbnaQRKQRr8yC5aWVO7lUQndg7MW4bbX)/cloud/3/x9ny70y/d/live-480.m3u8#cell=lcf2-eu-north-1a
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", BOLIVISION LP
 https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/medialist_15609871089997455276_hls.m3u8
@@ -131,7 +129,7 @@ https://d2qsan2ut81n2k.cloudfront.net/live/3338960e-86ca-4c50-a567-913c663b26fc/
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0RxcvssL/ATB.jpg" group-title="BOLIVIA", ATB
-https://live.eu-north-1b.cf.dmcdn.net/sec2(EC1WrvfNWKkMxmIHijpu2RH32KE-7Zo3oZVIBzpYzbSa1ad8pv_LzLQFQCzyCp4KIzaAiu_M4vZzn9iAQ0ZMJhCaN35IIxAgDRzcpQB3IVj3zQLaNWkId2Qbv4HuyG0B)/dm/3/x84eirw/s/live-720.m3u8#cell=lcf-eu-north-1b
+
 
 #EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png" group-title="BOLIVIA", F10 (opc1)
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
