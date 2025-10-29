@@ -11,9 +11,17 @@ https://seo.tv.bo/hls/SEO_-TVx1.m3u8
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 1 (DEPORTES)
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 2 (DEPORTES)
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8f667db78acfeca3e792be86616ee96f.webp" group-title="BOLIVIA", Cine Friki
-https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21gLd0vPtvL.png" group-title="BOLIVIA", CINE ESPAÑOL
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21gLd0vPtvL.png" group-title="BOLIVIA", CINE ACCION
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21gLd0vPtvL.png" group-title="BOLIVIA", CINE CRIMEN
+https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8f667db78acfeca3e792be86616ee96f.webp" group-title="BOLIVIA", CiNE FRIKI
+https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efea896119450ed5bdc725f270cf31ec.webp" group-title="BOLIVIA", CINEMA HD
 https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
@@ -172,6 +180,9 @@ https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hJWHwCG/GO.jpg" group-title="BOLIVIA", GOGO PLAY BO
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4s49Bsp/1111.jpg" group-title="BOLIVIA", MIX BOLIVIA TV
+https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0k89Wv/ssss.png" group-title="BOLIVIA", ZOY TV HD (PLUS)
 https://tv.icecast.online/tvtupiza/streams/d2hfhndGCik3p4b021398471262227681.m3u8
@@ -966,17 +977,17 @@ http://tv1.halihost.fun:80/play/eC4EjgEognKPDU9u-2cpAjVOZDAxiOveQSfFzohaUnY/ts
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (1)
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (2)
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/358-3584145_gordon-shumway-could-be-heading-back-to-tv.png" group-title="24/7", ALF
+
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/138-1382682_pagal-khana-mr-bean-logo-png.png" group-title="24/7", MR.BEAN SD
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8?
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/9b/6d/76/9b6d765065d7e1628cf1570ae3125eec.jpg" group-title="24/7", LOS 3 CHIFLADOS
 #EXTINF:-1 tvg-logo="https://moviehaku.com/thumbs/films/400x590/Combat-.jpg" group-title="24/7", COMBATE
 #EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/EsnHP4ahwW2hRsfBldxZq4d8Tfg=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SNZ7YT7L6RFMTJTAJI7OEXC724.jpg" group-title="24/7", EL CHAVO DEL 8 (1) 
 #EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/EsnHP4ahwW2hRsfBldxZq4d8Tfg=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SNZ7YT7L6RFMTJTAJI7OEXC724.jpg" group-title="24/7", EL CHAVO DEL 8 (2)
 #EXTINF:-1 tvg-logo="" group-title="24/7", CHAPULIN COLORADO
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/elchapulincolorado/images/6/65/CH_Logo_83.jpg/revision/latest/scale-to-width-down/200?cb=20201005171352&path-prefix=es" group-title="24/7", CHESPIRITO 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4f8wywd/images.jpg" group-title="24/7", AH QUE KIKO
-
-
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="24/7", CABALLEROS DEL ZODIACO 1
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="24/7", CABALLEROS DEL ZODIACO 2
 #EXTINF:-1 tvg-logo="https://cdn.marvel.com/u/prod/marvel/i/mg/9/50/604be6b5d3c84/clean.jpg" group-title="24/7", ULTRAMAN
