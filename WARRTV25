@@ -59,7 +59,7 @@ https://sc1.wasidata.com/Teleclasica/index.fmp4.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/ptvonline/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhhznS3t/11111111111.webp" group-title="BOLIVIA", COSMOS TV HD
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+https://canaletaplus.com:3922/live/adminlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhhznS3t/11111111111.webp" group-title="BOLIVIA", COSMOS TV SD
 
@@ -153,7 +153,7 @@ https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
 https://tv2.bitstreaming.net:3235/multi_live/play_240.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkh1g7ns/images-1.jpg" group-title="BOLIVIA", TV OFF 
-https://seo.tv.bo/hls/TVOFFx.m3u8
+https://seo.tv.bo/hls/TVOFF.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DPjNLgVY/PAT.jpg" group-title="BOLIVIA", PAT
 
@@ -179,7 +179,7 @@ https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/chunklist_w1522635208.
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hJWHwCG/GO.jpg" group-title="BOLIVIA", GOGO PLAY BO
-https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4s49Bsp/1111.jpg" group-title="BOLIVIA", MIX BOLIVIA TV
 https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
