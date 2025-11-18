@@ -11,47 +11,6 @@ https://seo.tv.bo/hls/SEO-TV4.m3u8
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 1 (DEPORTES)
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 2 (DEPORTES)
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21gLd0vPtvL.png" group-title="BOLIVIA", CINE ESPAÑOL
-https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21gLd0vPtvL.png" group-title="BOLIVIA", CINE ACCION
-https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21gLd0vPtvL.png" group-title="BOLIVIA", CINE CRIMEN
-https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8?
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8f667db78acfeca3e792be86616ee96f.webp" group-title="BOLIVIA", CiNE FRIKI
-https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efea896119450ed5bdc725f270cf31ec.webp" group-title="BOLIVIA", CINEMA HD
-https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bb42115ec41fea4ac36dec93b294d2e2.webp" group-title="BOLIVIA", RUNTIME SP
-https://run-rt-uh.otteravision.com/run/rt_uh/rt_uh_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c06eb0cf2c420d1709dbb62d1754381d.webp" group-title="BOLIVIA", GUAYMATE TV 
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e3bb923a6e42d39bca3d8b1869e2eb3.webp" group-title="BOLIVIA", FREE TV ACCION
-https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/1080p-cc/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b680a8c006f286330d002cbaf60aeaf.webp" group-title="BOLIVIA", FREE TV FAMILIA
-https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/1080p-cc/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7dd923570b66f31b6acbffb18de481ab.webp" group-title="BOLIVIA", FREE TV ESTELAR
-https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/1080p-cc/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/508d57285ddb9547199cbede4ba72f19.webp" group-title="BOLIVIA", FREE TV DRAMA
-https://amg01024-olympusat-cinereallatam-ono-ad-z5.amagi.tv/1080p-cc/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/abb2072bbd91067dea9ef6dd9be705de.webp" group-title="BOLIVIA", FREE TV LIVE
-https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/1080p-cc/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86d786223e6cb417c86e17d4d7e61bc6.webp" group-title="BOLIVIA", CANELA TV
-https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95b03ec39e2ed29147f06d3836242ee5.webp" group-title="BOLIVIA", CANAL+
-https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="BOLIVIA", TELECLASICA SD
 https://sc1.wasidata.com/Teleclasica/index.fmp4.m3u8
 
@@ -236,7 +195,7 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=dEmoweBeneRGEek2025
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/50_Locomotion.png" group-title="BOLIVIA", LOCOMOTION 
-http://51.222.85.85:81/hls/loco/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxdxvYcB/RETRO-MAGICO-HD.jpg" group-title="BOLIVIA", RETROMAGICO HD
 https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
@@ -252,6 +211,47 @@ https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="BOLIVIA", KPOP TV PLAY
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21gLd0vPtvL.png" group-title="BOLIVIA", CINE ESPAÑOL
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21gLd0vPtvL.png" group-title="BOLIVIA", CINE ACCION
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21gLd0vPtvL.png" group-title="BOLIVIA", CINE CRIMEN
+https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8f667db78acfeca3e792be86616ee96f.webp" group-title="BOLIVIA", CiNE FRIKI
+https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efea896119450ed5bdc725f270cf31ec.webp" group-title="BOLIVIA", CINEMA HD
+https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bb42115ec41fea4ac36dec93b294d2e2.webp" group-title="BOLIVIA", RUNTIME SP
+https://run-rt-uh.otteravision.com/run/rt_uh/rt_uh_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c06eb0cf2c420d1709dbb62d1754381d.webp" group-title="BOLIVIA", GUAYMATE TV 
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e3bb923a6e42d39bca3d8b1869e2eb3.webp" group-title="BOLIVIA", FREE TV ACCION
+https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b680a8c006f286330d002cbaf60aeaf.webp" group-title="BOLIVIA", FREE TV FAMILIA
+https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7dd923570b66f31b6acbffb18de481ab.webp" group-title="BOLIVIA", FREE TV ESTELAR
+https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/508d57285ddb9547199cbede4ba72f19.webp" group-title="BOLIVIA", FREE TV DRAMA
+https://amg01024-olympusat-cinereallatam-ono-ad-z5.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/abb2072bbd91067dea9ef6dd9be705de.webp" group-title="BOLIVIA", FREE TV LIVE
+https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86d786223e6cb417c86e17d4d7e61bc6.webp" group-title="BOLIVIA", CANELA TV
+https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95b03ec39e2ed29147f06d3836242ee5.webp" group-title="BOLIVIA", CANAL+
+https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA ACCION CLASSICS FHD
