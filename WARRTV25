@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svT6rGQz/SEO.jpg" group-title="BOLIVIA", SEO TV (HD)
-https://seo.tv.bo/hls/SEO-TV1.m3u8
+https://seo.tv.bo/hls/SEOTVSD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svT6rGQz/SEO.jpg" group-title="BOLIVIA", SEO TV (PELICULAS)
 https://seo.tv.bo/hls/SEO-TV4.m3u8
@@ -12,7 +12,7 @@ https://seo.tv.bo/hls/SEO-TV4.m3u8
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 2 (DEPORTES)
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="BOLIVIA", TELECLASICA SD
-https://sc1.wasidata.com/Teleclasica/index.fmp4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHX89Zyg/PTV-HD.jpg" group-title="BOLIVIA", PACEÑISIMA TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/ptvonline/chunks.m3u8
@@ -138,10 +138,10 @@ https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/chunklist_w1522635208.
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hJWHwCG/GO.jpg" group-title="BOLIVIA", GOGO PLAY BO
-https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
+https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4s49Bsp/1111.jpg" group-title="BOLIVIA", MIX BOLIVIA TV
-https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0k89Wv/ssss.png" group-title="BOLIVIA", ZOY TV HD (PLUS)
 https://tv.icecast.online/tvtupiza/streams/d2hfhndGCik3p4b021398471262227681.m3u8
@@ -159,7 +159,7 @@ https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YC5FRmq.png" group-title="BOLIVIA", RED CCTV (480p)
-https://solo.disfrutaenlared.com:1936/redcctv/redcctv/chunklist_w1692408575.m3u8
+https://ares.disfrutaenlared.com:1936/tvt/tvt/chunklist_w1821375380.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qj5g3XS/DDD.png" group-title="BOLIVIA", PURUWA TV
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w2126368419.m3u8
@@ -183,7 +183,7 @@ https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w1451355141.m3u8
 https://icecast.online/hls/imperial25/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TUhFzql.png" group-title="BOLIVIA", VTV CANAL 17
-https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
+https://ares.disfrutaenlared.com:1936/vtvcanal/vtvcanal/chunklist_w783909411.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brY56Hk/cvc-hd-virgen.jpg" group-title="BOLIVIA", VIRGEN DE COPACABANA HD
 https://stream-167790.castr.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.fmp4.m3u8
