@@ -1,9 +1,9 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svT6rGQz/SEO.jpg" group-title="BOLIVIA", SEO TV (HD)
-https://seo.tv.bo/hls/SEOTVSD.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svT6rGQz/SEO.jpg" group-title="BOLIVIA", SEO TV (PELICULAS)
-https://seo.tv.bo/hls/SEO-TV4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (KIDS)
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (YUNGAS)
@@ -30,7 +30,7 @@ https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w418830166.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wZX5TT6Q/images.jpg" group-title="BOLIVIA", PUNTO TV (BO)
-https://stream-usa4.hostpannel.lat:19360/puntotv/720p.m3u8
+https://stream-usa4.hostpannel.lat:19360/puntotv/puntotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4eNH7JS.png" group-title="BOLIVIA", IN TV (Bolivia)
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
@@ -56,7 +56,7 @@ https://stv2.boliviaplay.com.bo/hls/0/stream.m3u8
 https://node2.bitstreaming.net:3951/multi_live/play_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="BOLIVIA", DELTA TV SD
-https://node2.bitstreaming.net:3951/multi_live/play_480.m3u8
+https://node2.bitstreaming.net:3951/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mvMRNou.png" group-title="BOLIVIA", TELE ESTRELLA 
 https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/chunklist_w2074296960.m3u8
@@ -144,10 +144,9 @@ https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8
 https://tv.icecast.online/tvtupiza/streams/d2hfhndGCik3p4b021398471262227681.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J76KpSjD/ctvklp.jpg" group-title="BOLIVIA", CTV HD
-https://live.ctvbolivia.com/hls/ctv.m3u8
+https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ycL4gvy5/ABY.jpg" group-title="BOLIVIA", ABYA YALA TV
-https://seo.tv.bo/hls/AbyaYala.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg" group-title="BOLIVIA", UNIVALLE TV HD
 https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
