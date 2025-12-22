@@ -109,7 +109,7 @@ https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
 https://tv2.bitstreaming.net:3235/multi_live/play_240.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkh1g7ns/images-1.jpg" group-title="BOLIVIA", TV OFF 
-https://seo.tv.bo/hls/TVOFF.m3u8
+https://fb.tv.bo/hls/TvOFF.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DPjNLgVY/PAT.jpg" group-title="BOLIVIA", PAT
 
