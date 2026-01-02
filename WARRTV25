@@ -12,6 +12,7 @@
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 2 (DEPORTES)
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="BOLIVIA", TELECLASICA SD
+https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/998c1M63/5.jpg" group-title="BOLIVIA", ACTIVA TV
 https://tv.icecast.online/tvtupiza/streams/d2hfhndGCik3p4b021398471262227681.m3u8
@@ -94,10 +95,10 @@ https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/
 https://d2qsan2ut81n2k.cloudfront.net/live/3338960e-86ca-4c50-a567-913c663b26fc/medialist_15609871089997455276_hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL SCZ
-
+https://master.tucableip.com/tvhome/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL LP
-
+https://mio.zoymilton.com/VaviTV/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL BO
 
@@ -119,8 +120,14 @@ https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
 #EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png" group-title="BOLIVIA", F10 (opc3)
 https://tv2.bitstreaming.net:3235/multi_live/play_240.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hQ5jjxH/imagen-2026-01-02-144608408.png" group-title="BOLIVIA", TVT
+https://ares.disfrutaenlared.com:1936/tvt/tvt/chunklist_w955556319.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkh1g7ns/images-1.jpg" group-title="BOLIVIA", TV OFF 
 https://fb.tv.bo/hls/TvOFF.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27cgJKRd/7.jpg" group-title="BOLIVIA", TURBION DIGITAL
+https://live21.bozztv.com/akamaissh101/ssh101/turbion/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DPjNLgVY/PAT.jpg" group-title="BOLIVIA", PAT
 https://csc-axs-edge01.sensa.com.ar/bpk-tv/PAT/default/index.mpd
