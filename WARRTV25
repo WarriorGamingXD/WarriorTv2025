@@ -57,8 +57,10 @@ https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w2018357403.m3u8
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="BOLIVIA", TVS RETRO
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w661681189.m3u8
 
+
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d2286c3a8f9cc98a7d2a4a9da93b28c.webp" group-title="BOLIVIA", MEGA TV BOLIVIA
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1sdhJCC/AMITEL4-TV.jpg" group-title="BOLIVIA", AMITEL
