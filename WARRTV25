@@ -126,7 +126,6 @@ https://ares.disfrutaenlared.com:1936/tvt/tvt/chunklist_w955556319.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkh1g7ns/images-1.jpg" group-title="BOLIVIA", TV OFF 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27cgJKRd/7.jpg" group-title="BOLIVIA", TURBION DIGITAL
-https://live21.bozztv.com/akamaissh101/ssh101/turbion/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DPjNLgVY/PAT.jpg" group-title="BOLIVIA", PAT
 https://csc-axs-edge01.sensa.com.ar/bpk-tv/PAT/default/index.mpd
@@ -179,7 +178,7 @@ https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ycL4gvy5/ABY.jpg" group-title="BOLIVIA", ABYA YALA TV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg" group-title="BOLIVIA", UNIVALLE TV HD
-https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
+https://master.tucableip.com/univalletv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="BOLIVIA",CORAL TV
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
