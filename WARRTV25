@@ -67,10 +67,9 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.
 https://stv2.boliviaplay.com.bo/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="BOLIVIA", DELTA TV HD
-https://node2.bitstreaming.net:3951/multi_live/play_720.m3u8
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="BOLIVIA", DELTA TV SD
-https://node2.bitstreaming.net:3951/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mvMRNou.png" group-title="BOLIVIA", TELE ESTRELLA 
 https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/chunklist_w2074296960.m3u8
