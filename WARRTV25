@@ -18,7 +18,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
 https://tv.icecast.online/tvtupiza/streams/d2hfhndGCik3p4b021398471262227681.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nxYJ31f/W.png" group-title="BOLIVIA", WISE TV
-https://live.enhdtv.com:8081/8150/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wFLRx5gQ/imagen-2026-01-02-130829760.png" group-title="BOLIVIA", ADA DIGITAL
 https://live.enhdtv.com:8081/8214/tracks-v1a1/mono.m3u8
@@ -38,7 +38,7 @@ https://canaletaplus.com:3922/live/adminlive.m3u8
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w418830166.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WPZsd2V/1.png" group-title="BOLIVIA", Turbion Digital TV
-https://live21.bozztv.com/akamaissh101/ssh101/turbion/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YhHQhj/images.jpg" group-title="BOLIVIA", NEOTV HD 1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -152,7 +152,7 @@ https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 https://live.enhdtv.com:8081/8054/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/81Y2dXn/111.png" group-title="BOLIVIA", UREAL TV
-https://live.enhdtv.com:8081/8218/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cnj0xbN/channels4-profile.jpg" group-title="BOLIVIA", TVU (SANTA CRUZ)
 #EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/10/logocadenaa.png" group-title="BOLIVIA", CADENA A
