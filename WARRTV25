@@ -24,22 +24,22 @@ https://live.enhdtv.com:8081/8150/tracks-v1a1/mono.m3u8
 https://59d39900ebfb8.streamlock.net/tele6/tele6/chunklist_w1758702279.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wFLRx5gQ/imagen-2026-01-02-130829760.png" group-title="BOLIVIA", ADA DIGITAL
-https://live.enhdtv.com:8081/8214/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHX89Zyg/PTV-HD.jpg" group-title="BOLIVIA", PACEÑISIMA TV HD
-https://live20.bozztv.com/akamaissh101/ssh101/ptvonline/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svT6rGQz/SEO.jpg" group-title="BOLIVIA", RED AMERICA
-https://tv.andeshost.com:3355/live/redamericalive.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhhznS3t/11111111111.webp" group-title="BOLIVIA", COSMOS TV HD
 https://59d39900ebfb8.streamlock.net/telefehd/telefehd/chunklist_w33583915.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.whataform.com/avatar/avatar_812dbd40c5d7a94_3ef972e0881a605c5b8fe7d51614a1703a28e2db.png" group-title="BOLIVIA", CANAL 40 PUEBLO TV
-https://mio.zoymilton.com/Canal40/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cosmos-Per%C3%BA-en-vivo-Online-747x420.png" group-title="BOLIVIA", COSMOS TV (PE)
-https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WPZsd2V/1.png" group-title="BOLIVIA", RED SIGLO XXI
 https://59d39900ebfb8.streamlock.net/sigloxxi/sigloxxi/chunklist_w981824270.m3u8
@@ -128,7 +128,7 @@ https://tv2.bitstreaming.net:3235/multi_live/play_1080.m3u8
 #EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png" group-title="BOLIVIA", F10 (opc2)
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hQ5jjxH/imagen-2026-01-02-144608408.png" group-title="BOLIVIA", TVT
-https://ares.disfrutaenlared.com:1936/tvt/tvt/chunklist_w955556319.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkh1g7ns/images-1.jpg" group-title="BOLIVIA", TV OFF 
 
