@@ -662,7 +662,9 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 IPTV2
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1,DEPORTES - Espn 1 COL (PM)(1080)
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/Syfy-logo-2017-2.png?w=246&h=246&crop=1&ssl=1" group-title="ENTRETENIMIENTO", SYFY (LAT)
+#EXTINF:-1,DEPORTES - group-title="ENTRETENIMIENTO", Espn 1 COL (PM)(1080)
 http://194.76.0.229:8080/renzoq/fc4a920f7318/9516
 #EXTINF:-1,DEPORTES - Espn 1 COL (e)(720)
 http://194.76.0.229:8080/renzoq/fc4a920f7318/9517
@@ -3130,7 +3132,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/swG66Sz/descarga.png" group-title="ENTRETENIMIENTO", DPELICULA HD 
 #EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/3efb0842292e7dbce9a096b0784a67a1.png"group-title="ENTRETENIMIENTO", CSI: Miami 
 #EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/83bd7fa9f427f283e95d42baea68853c.jpg" group-title="ENTRETENIMIENTO", Retro Chile
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/Syfy-logo-2017-2.png?w=246&h=246&crop=1&ssl=1" group-title="ENTRETENIMIENTO", SYFY (LAT)
+
 
 
 
