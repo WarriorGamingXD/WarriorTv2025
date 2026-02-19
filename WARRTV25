@@ -658,8 +658,1907 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
 
 
-
 -----------------------------------------------------------------------------------------------------------------------------------------------
+IPTV2
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1,DEPORTES - Espn 1 COL (PM)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9516
+#EXTINF:-1,DEPORTES - Espn 1 COL (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9517
+#EXTINF:-1,DEPORTES - Espn 1 CHI (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/99538
+#EXTINF:-1,DEPORTES - Espn 1 CHI (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/99539
+#EXTINF:-1,DEPORTES - Espn 1 ARG (i)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9520
+#EXTINF:-1,DEPORTES - Espn 1 ARG (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9521
+#EXTINF:-1,DEPORTES - Espn 1 ARG (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9522
+#EXTINF:-1,DEPORTES - Espn 1 MEX (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9523
+#EXTINF:-1,DEPORTES - Espn 1 MEX (i)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9525
+#EXTINF:-1,DEPORTES - Espn 2 ARG (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9526
+#EXTINF:-1,DEPORTES - Espn 2 ARG (PM)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9527
+#EXTINF:-1,DEPORTES - Espn 2 ARG (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9528
+#EXTINF:-1,DEPORTES - Espn 2 COL (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9529
+#EXTINF:-1,DEPORTES - Espn 2 MEX (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9530
+#EXTINF:-1,DEPORTES - Espn 2 MEX (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9531
+#EXTINF:-1,DEPORTES - Espn 3 ARG (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9533
+#EXTINF:-1,DEPORTES - Espn 3 ARG (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9534
+#EXTINF:-1,DEPORTES - Espn 3 COL (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9532
+#EXTINF:-1,DEPORTES - Espn 3 MEX (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9536
+#EXTINF:-1,DEPORTES - Espn 4 (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9538
+#EXTINF:-1,DEPORTES - Espn 4 MEX (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9537
+#EXTINF:-1,DEPORTES - Espn 5 (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9539
+#EXTINF:-1,DEPORTES - ESPN 7 (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9574
+#EXTINF:-1,DEPORTES - Espn 7 (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9543
+#EXTINF:-1,DEPORTES - Espn Deportes (MEX) (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9544
+#EXTINF:-1,DEPORTES - Espn Extra ARG (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9545
+#EXTINF:-1,DEPORTES - Espn Extra MEX (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9547
+#EXTINF:-1,DEPORTES - ESPN Premium CL (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/115016
+#EXTINF:-1,DEPORTES - ESPN Premium ARG (L)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9549
+#EXTINF:-1,DEPORTES - Espn Premium ARG (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9546
+#EXTINF:-1,DEPORTES - ESPN Premium ARG (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9550
+#EXTINF:-1,DEPORTES - beIN Sport USA (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9551
+#EXTINF:-1,DEPORTES - beIN Sports Xtra Ñ (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9552
+#EXTINF:-1,DEPORTES - beIN Sports Ñ (i)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9553
+#EXTINF:-1,DEPORTES - Fox Deportes (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9571
+#EXTINF:-1,DEPORTES - Fox Deportes (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9572
+#EXTINF:-1,DEPORTES - Fox Sports 1 ARG (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9575
+#EXTINF:-1,DEPORTES - Fox Sports 1 ARG (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9576
+#EXTINF:-1,DEPORTES - Fox Sports 1 COL (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9577
+#EXTINF:-1,DEPORTES - Fox Sports 1 LAT (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9578
+#EXTINF:-1,DEPORTES - Fox Sports 1 MEX (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9579
+#EXTINF:-1,DEPORTES - Fox Sports 2 LAT (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9580
+#EXTINF:-1,DEPORTES - Fox Sports 2 ARG (L)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9581
+#EXTINF:-1,DEPORTES - Fox Sports 2 ARG (i)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9582
+#EXTINF:-1,DEPORTES - Fox Sports 2 COL (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9583
+#EXTINF:-1,DEPORTES - Fox Sports 2 MEX (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9584
+#EXTINF:-1,DEPORTES - Fox Sports 2 MEX (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9585
+#EXTINF:-1,DEPORTES - Fox Sports 2 MX (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9586
+#EXTINF:-1,DEPORTES - Fox Sports 3 ARG (i)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9588
+#EXTINF:-1,DEPORTES - Fox Sports 3 ARG (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9589
+#EXTINF:-1,DEPORTES - Fox Sports 3 COL (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9590
+#EXTINF:-1,DEPORTES - Fox Sports 3 MEX (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9591
+#EXTINF:-1,DEPORTES - Fox Sports 3 MX (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9592
+#EXTINF:-1,DEPORTES - Fox Sports Premium MX (i)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9593
+#EXTINF:-1,DEPORTES - TUDN - MEX (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9603
+#EXTINF:-1,DEPORTES - TUDN - MEX (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9604
+#EXTINF:-1,DEPORTES - TUDN - USA (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9605
+#EXTINF:-1,DEPORTES - TUDN - USA (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9606
+#EXTINF:-1,DEPORTES - Directv Sports + (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9557
+#EXTINF:-1,DEPORTES - Directv Sports + (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9558
+#EXTINF:-1,DEPORTES - Directv Sports + (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9559
+#EXTINF:-1,DEPORTES - Directv Sports 1 (ARG) (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9560
+#EXTINF:-1,DEPORTES - Directv Sports 1 CHI (e)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9561
+#EXTINF:-1,DEPORTES - Directv Sports 1 ECU (e)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9562
+#EXTINF:-1,DEPORTES - Directv Sports 1 ECU (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9563
+#EXTINF:-1,DEPORTES - Directv Sports 2 (e)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9564
+#EXTINF:-1,DEPORTES - Directv Sports 2 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9565
+#EXTINF:-1,DEPORTES - Directv Sports 2 ARG (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9567
+#EXTINF:-1,DEPORTES - Directv Sports 2 ARG (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9566
+#EXTINF:-1,DEPORTES - Directv Sports Fight (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9568
+#EXTINF:-1,DEPORTES - Claro Sports 2 (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9556
+#EXTINF:-1,DEPORTES - Fight BOX  (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9570
+#EXTINF:-1,DEPORTES - Gol TV ES (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9594
+#EXTINF:-1,DEPORTES - Gol TV Internacional (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9595
+#EXTINF:-1,DEPORTES - Golf Latin America (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9596
+#EXTINF:-1,DEPORTES - Golf Latin MEX (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9597
+#EXTINF:-1,DEPORTES - NBA U (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9598
+#EXTINF:-1,DEPORTES - Sky sports (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9599
+#EXTINF:-1,DEPORTES - SKY Sports Bundesliga (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9600
+#EXTINF:-1,DEPORTES - SKY Sports La liga (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9601
+#EXTINF:-1,DEPORTES - Tennis Channel (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9602
+#EXTINF:-1,DEPORTES - TVC Deportes (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9607
+#EXTINF:-1,DEPORTES - TyC Sports INT (i)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9608
+#EXTINF:-1,DEPORTES - TyC Sports INT (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9609
+#EXTINF:-1,DEPORTES - UFC (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9610
+#EXTINF:-1,DEPORTES - UFC Fight PASS (i)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9611
+#EXTINF:-1,DEPORTES - WWE  (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9612
+#EXTINF:-1,DEPORTES - WWE (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9613
+#EXTINF:-1,DEPORTES - SKY Sports LaLiga (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164158
+#EXTINF:-1,DEPORTES - SKY Sports Premier League (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164159
+#EXTINF:-1,PPV - Dazn 1 (L)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/156148
+#EXTINF:-1,PPV - Dazn 1 (TV)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/156150
+#EXTINF:-1,PPV - Dazn 2 (L)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/156151
+#EXTINF:-1,PPV - Dazn 2 (TV)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/156152
+#EXTINF:-1,PPV - Dazn LaLiga (L)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/156156
+#EXTINF:-1,PPV - Dazn LaLiga 1 (TV)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/156157
+#EXTINF:-1,PPV - Dazn LaLiga 2 (TV)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/156159
+#EXTINF:-1,PPV - Dazn LaLiga 3 (TV) (Solo Eventos)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/156161
+#EXTINF:-1,PPV - Dazn LaLiga 4 (TV) (Solo Eventos)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/156162
+#EXTINF:-1,PPV - Dazn F1 (L)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/156163
+#EXTINF:-1,PPV - LaLiga: Dazn F1. (TV)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/156164
+#EXTINF:-1,PPV - F1 | Dazn (720)(Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/156165
+#EXTINF:-1,PPV - Serie A: Dazn Bar 1 (TV)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/156172
+#EXTINF:-1,PPV - Serie A: Dazn Sport 1 (TV)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/156173
+#EXTINF:-1,DEPORTES - Real Madrid TV (i)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165482
+#EXTINF:-1,PPV-Laliga Hypermotion 1 (i)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165483
+#EXTINF:-1,PPV-Laliga Hypermotion 2 (i)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165484
+#EXTINF:-1,PPV-Laliga Hypermotion 3 (i)(720) 
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165485
+#EXTINF:-1,CINE - A&E (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9614
+#EXTINF:-1,CINE - A&E (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9615
+#EXTINF:-1,CINE - A&E (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9616
+#EXTINF:-1,CINE - AMC (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9619
+#EXTINF:-1,CINE - AMC (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9620
+#EXTINF:-1,CINE - AXN (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9623
+#EXTINF:-1,CINE - AXN (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9624
+#EXTINF:-1,CINE - AXN (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9625
+#EXTINF:-1,CINE - HBO (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9666
+#EXTINF:-1,CINE - HBO (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9668
+#EXTINF:-1,CINE - HBO (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9667
+#EXTINF:-1,CINE - HBO (TV)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9669
+#EXTINF:-1,CINE - HBO (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9670
+#EXTINF:-1,CINE - HBO 2 (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9673
+#EXTINF:-1,CINE - HBO 2 (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9675
+#EXTINF:-1,CINE - HBO 2 (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9671
+#EXTINF:-1,CINE - HBO 2 (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9674
+#EXTINF:-1,CINE - HBO Family (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9676
+#EXTINF:-1,CINE - HBO Family (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9678
+#EXTINF:-1,CINE - HBO Family (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9679
+#EXTINF:-1,CINE - HBO Family (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9680
+#EXTINF:-1,CINE - HBO Family. (TV)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9677
+#EXTINF:-1,CINE - HBO Mundi (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9682
+#EXTINF:-1,CINE - HBO Mundi (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9683
+#EXTINF:-1,CINE - HBO Plus (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9685
+#EXTINF:-1,CINE - HBO Plus (M)(SD) [Dual Audio]
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9686
+#EXTINF:-1,CINE - HBO Plus (TV)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9687
+#EXTINF:-1,CINE - HBO Plus (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9688
+#EXTINF:-1,CINE - HBO POP (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9689
+#EXTINF:-1,CINE - HBO POP (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9691
+#EXTINF:-1,CINE - HBO POP. (TV)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9690
+#EXTINF:-1,CINE - HBO Signature (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9692
+#EXTINF:-1,CINE - HBO Signature (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9693
+#EXTINF:-1,CINE - HBO Signature Dual Audio (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9695
+#EXTINF:-1,CINE - HBO SUR (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9696
+#EXTINF:-1,CINE - HBO Xtream (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9697
+#EXTINF:-1,CINE - HBO Xtreme (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9698
+#EXTINF:-1,CINE - HBO Xtreme (TV)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9700
+#EXTINF:-1,CINE - HBO Xtreme (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9701
+#EXTINF:-1,CINE - HBO Xtreme. (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9699
+#EXTINF:-1,CINE - HBO. 2 (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9672
+#EXTINF:-1,CINE - Cine Latino (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9626
+#EXTINF:-1,CINE - Cine Latino (Z)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9627
+#EXTINF:-1,CINE - CineCanal (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9629
+#EXTINF:-1,CINE - CineCanal (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9630
+#EXTINF:-1,CINE - Cinecanal (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9631
+#EXTINF:-1,CINE - Cinema Dinamita (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9632
+#EXTINF:-1,CINE - Cinemax (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9633
+#EXTINF:-1,CINE - Cinemax (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9635
+#EXTINF:-1,CINE - Comedy Central (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9636
+#EXTINF:-1,CINE - Comedy Central (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9637
+#EXTINF:-1,CINE - Paramount (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9705
+#EXTINF:-1,CINE - Paramount Channel. (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9708
+#EXTINF:-1,CINE - TNT (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9742
+#EXTINF:-1,CINE - TNT (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9743
+#EXTINF:-1,CINE - TNT (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9744
+#EXTINF:-1,CINE - TNT (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9745
+#EXTINF:-1,CINE - TNT Novelas  (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9747
+#EXTINF:-1,CINE - TNT Novelas (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9737
+#EXTINF:-1,CINE - TNT Series (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9748
+#EXTINF:-1,CINE - TNT Series (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9749
+#EXTINF:-1,CINE - TNT Series (Z)(720).
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9751
+#EXTINF:-1,CINE - Universal Channel (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9753
+#EXTINF:-1,CINE - Universal Channel (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9755
+#EXTINF:-1,CINE - Universal Cinema (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9756
+#EXTINF:-1,CINE - Universal Cinema (M)(1080) [Dual Audio]
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9757
+#EXTINF:-1,CINE - Universal Comedy (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9759
+#EXTINF:-1,CINE - Universal Crime (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9761
+#EXTINF:-1,CINE - Universal Crime (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9762
+#EXTINF:-1,CINE - Universal Crime (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9763
+#EXTINF:-1,CINE - Universal Crime (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9764
+#EXTINF:-1,CINE - Universal Premier (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9765
+#EXTINF:-1,CINE - Universal Premier (M)(1080) [Dual Audio]
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9766
+#EXTINF:-1,CINE - Universal Premier (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9767
+#EXTINF:-1,CINE - Universal Premiere Norte (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9768
+#EXTINF:-1,CINE - Universal Reality (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9770
+#EXTINF:-1,CINE - Universal Reality (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9771
+#EXTINF:-1,CINE - Universal Reality (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9772
+#EXTINF:-1,CINE - Universal Reality (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9773
+#EXTINF:-1,CINE - Warner Channel (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9774
+#EXTINF:-1,CINE - Warner Channel (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9776
+#EXTINF:-1,CINE - Warner Channel Dual Audio (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9775
+#EXTINF:-1,CINE - A3 Cine INT (TV)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9617
+#EXTINF:-1,CINE - A3 Series (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9618
+#EXTINF:-1,CINE - HBO Xtreme Dual (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9779
+#EXTINF:-1,CINE - De Pelicula (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9638
+#EXTINF:-1,CINE - De Pelicula Plus (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9639
+#EXTINF:-1,CINE - Filmex (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9640
+#EXTINF:-1,CINE - Filmex Clasico (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9641
+#EXTINF:-1,CINE - De Película (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9642
+#EXTINF:-1,CINE - DHE (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9643
+#EXTINF:-1,CINE - Distrito Comedia (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9644
+#EXTINF:-1,CINE - Distrito Comedia (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9645
+#EXTINF:-1,CINE - E! (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9646
+#EXTINF:-1,CINE - El Gourmet (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9647
+#EXTINF:-1,CINE - Europa Europa (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9648
+#EXTINF:-1,CINE - Film & Arts (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9649
+#EXTINF:-1,CINE - Film And Arts (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9650
+#EXTINF:-1,CINE - Food Network (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9651
+#EXTINF:-1,CINE - FX (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9652
+#EXTINF:-1,CINE - FX (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9653
+#EXTINF:-1,CINE - FX (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9654
+#EXTINF:-1,CINE - FX MEX (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9655
+#EXTINF:-1,CINE - Golden (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9657
+#EXTINF:-1,CINE - Golden Edge (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9658
+#EXTINF:-1,CINE - Golden Edge (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9659
+#EXTINF:-1,CINE - Golden Plus (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9660
+#EXTINF:-1,CINE - Golden Plus (M)(1080) [Dual Audio]
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9661
+#EXTINF:-1,CINE - Golden Plus (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9662
+#EXTINF:-1,CINE - Golden Premier 2 (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9663
+#EXTINF:-1,CINE - Golden Premiere (M)(1080) [Dual Audio]
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9664
+#EXTINF:-1,CINE - Golden Premiere 2 (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9665
+#EXTINF:-1,CINE - AMC (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9702
+#EXTINF:-1,CINE - Lifetime (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9703
+#EXTINF:-1,CINE - Panico MEX (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9704
+#EXTINF:-1,CINE - Showtime Extreme (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9709
+#EXTINF:-1,CINE - Showtime West Dual (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9710
+#EXTINF:-1,CINE - Sony Channel (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9711
+#EXTINF:-1,CINE - Sony Channel (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9712
+#EXTINF:-1,CINE - Sony Cine (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9713
+#EXTINF:-1,CINE - Sony Comedias (S)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9714
+#EXTINF:-1,CINE - Sony Novelas (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9716
+#EXTINF:-1,CINE - Space (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9717
+#EXTINF:-1,CINE - Space (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9718
+#EXTINF:-1,CINE - STAR Channel CO (M)(1080) [Dual Audio]
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9721
+#EXTINF:-1,CINE - STAR Channel CO. (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9722
+#EXTINF:-1,CINE - STAR Channel MX (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9723
+#EXTINF:-1,CINE - Star Channel Norte (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9724
+#EXTINF:-1,CINE - Star Channel Sur (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9725
+#EXTINF:-1,CINE - Star TVE (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9726
+#EXTINF:-1,CINE - Starz Comedy (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9728
+#EXTINF:-1,CINE - Starz Encore Suspense (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9730
+#EXTINF:-1,CINE - Starz Family (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9731
+#EXTINF:-1,CINE - Studio Universal (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9732
+#EXTINF:-1,CINE - Syfy (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9735
+#EXTINF:-1,CINE - TBS (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9738
+#EXTINF:-1,CINE - TBS Very Funny (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9739
+#EXTINF:-1,CINE - TCM (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9740
+#EXTINF:-1,CINE - TCM (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9741
+#EXTINF:-1,DOC-Animal Planet (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9811
+#EXTINF:-1,DOC-Animal Planet (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9812
+#EXTINF:-1,DOC-Animal Planet (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9813
+#EXTINF:-1,DOC-Animal Planet (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9780
+#EXTINF:-1,DOC-Comedy Central (Z)(1080).
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9781
+#EXTINF:-1,DOC-Discovery Channel (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9814
+#EXTINF:-1,DOC-Discovery Channel (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9816
+#EXTINF:-1,DOC-Discovery Channel (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9782
+#EXTINF:-1,DOC-Discovery Familia (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9817
+#EXTINF:-1,DOC-Discovery FAMILIA (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9783
+#EXTINF:-1,DOC-Discovery Familia (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9818
+#EXTINF:-1,DOC-Discovery H&H (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9784
+#EXTINF:-1,DOC-Discovery HGTV (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9819
+#EXTINF:-1,DOC-Discovery Home & Health (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9821
+#EXTINF:-1,DOC-Discovery Home & Health (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9820
+#EXTINF:-1,DOC-Discovery ID (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9785
+#EXTINF:-1,DOC-Discovery Science (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9822
+#EXTINF:-1,DOC-Discovery Science (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9823
+#EXTINF:-1,DOC-Discovery Science (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9786
+#EXTINF:-1,DOC-Discovery Theater (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9787
+#EXTINF:-1,DOC-Discovery Theater (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9824
+#EXTINF:-1,DOC-Discovery Theater (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9788
+#EXTINF:-1,DOC-Discovery TLC (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9825
+#EXTINF:-1,DOC-Discovery TLC (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9826
+#EXTINF:-1,DOC-Discovery TLC (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9827
+#EXTINF:-1,DOC-Discovery TURBO (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9829
+#EXTINF:-1,DOC-Discovery Turbo (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9830
+#EXTINF:-1,DOC-Discovery Turbo (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9789
+#EXTINF:-1,DOC-Discovery World (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9831
+#EXTINF:-1,DOC-Discovery World (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9832
+#EXTINF:-1,DOC-Discovery World (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9833
+#EXTINF:-1,DOC-Discovery World (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9834
+#EXTINF:-1,DOC-Discovery World (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9790
+#EXTINF:-1,DOC-DW En Español (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9791
+#EXTINF:-1,DOC-Food Network (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9792
+#EXTINF:-1,DOC-Garage TV (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9793
+#EXTINF:-1,DOC-Glitz (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9794
+#EXTINF:-1,DOC-Gourmet (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9795
+#EXTINF:-1,DOC-H2 (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9836
+#EXTINF:-1,DOC-H2 (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9837
+#EXTINF:-1,DOC-HGTV (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9796
+#EXTINF:-1,DOC-History (L)(1080) (1080p)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9838
+#EXTINF:-1,DOC-History (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9797
+#EXTINF:-1,DOC-History 2 (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9839
+#EXTINF:-1,DOC-History 2 (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9798
+#EXTINF:-1,DOC-History Channel (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9840
+#EXTINF:-1,DOC-History Channel (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9841
+#EXTINF:-1,DOC-Hola TV (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9799
+#EXTINF:-1,DOC-Investigation Discovery (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9842
+#EXTINF:-1,DOC-Investigation Discovery (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9843
+#EXTINF:-1,DOC-Investigation Discovery (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9844
+#EXTINF:-1,DOC-Lifetime (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9800
+#EXTINF:-1,DOC-Lifetime 2 (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9801
+#EXTINF:-1,DOC-Love Nature (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9845
+#EXTINF:-1,DOC-Love Nature (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9802
+#EXTINF:-1,DOC-Mas Chic (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9803
+#EXTINF:-1,DOC-NatGeo (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9847
+#EXTINF:-1,DOC-NatGeo (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9846
+#EXTINF:-1,DOC-Natgeo (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9805
+#EXTINF:-1,DOC-NatGeo Mundo (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9848
+#EXTINF:-1,DOC-Natgeo Wild (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9807
+#EXTINF:-1,DOC-NatGeo Wild Ñ (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9849
+#EXTINF:-1,DOC-Smithsonian Channel (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9850
+#EXTINF:-1,DOC-Smithsonian Channel (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9808
+#EXTINF:-1,DOC-Tastemade (W)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9809
+#EXTINF:-1,DOC-TLC (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9810
+#EXTINF:-1,DOC-TRU TV (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9852
+#EXTINF:-1,INF-Baby First (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9854
+#EXTINF:-1,INF-Baby TV (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9855
+#EXTINF:-1,INF-Boomerang (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9857
+#EXTINF:-1,INF-Cartoon Network (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9858
+#EXTINF:-1,INF-Cartoon Network (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9859
+#EXTINF:-1,INF-Cartoon Network (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9861
+#EXTINF:-1,INF-Cartoonito (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9856
+#EXTINF:-1,INF-Discovery Kids (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9862
+#EXTINF:-1,INF-Discovery Kids (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9863
+#EXTINF:-1,INF-Discovery Kids (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9864
+#EXTINF:-1,INF-Discovery Kids (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9865
+#EXTINF:-1,INF-Disney Channel (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9866
+#EXTINF:-1,INF-Disney Channel (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9867
+#EXTINF:-1,INF-Disney JR (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9868
+#EXTINF:-1,INF-Disney Jr (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9869
+#EXTINF:-1,INF-Disney JR (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9870
+#EXTINF:-1,INF-Nick (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9871
+#EXTINF:-1,INF-Nick (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9872
+#EXTINF:-1,INF-Nick 2 (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9874
+#EXTINF:-1,INF-Nick Jr (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9875
+#EXTINF:-1,INF-Nick Jr (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9876
+#EXTINF:-1,INF-Nick JR (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9877
+#EXTINF:-1,INF-Nick Music (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9878
+#EXTINF:-1,INF-Nickelodeon (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9879
+#EXTINF:-1,INF-Nicktoon (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9881
+#EXTINF:-1,INF-Nicktoons (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9882
+#EXTINF:-1,INF-TeenNick (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9873
+#EXTINF:-1,INF-Tooncast (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9883
+#EXTINF:-1,INF-Tooncast (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/9884
+#EXTINF:-1,MUS-Bandamax (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8307
+#EXTINF:-1,MUS-Bandamax (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8308
+#EXTINF:-1,MUS-HTV (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8309
+#EXTINF:-1,MUS-MTV (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8310
+#EXTINF:-1,MUS-MTV (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8311
+#EXTINF:-1,MUS-MTV Live (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8312
+#EXTINF:-1,MUS-MTV Live (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8313
+#EXTINF:-1,MUS-Telehit (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8315
+#EXTINF:-1,MUS-Telehit (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8316
+#EXTINF:-1,MUS-Telehit Plus(M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8317
+#EXTINF:-1,MUS-Teleritmo (L)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8318
+#EXTINF:-1,MUS-VH1 (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8319
+#EXTINF:-1,MUS-VH1 (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8320
+#EXTINF:-1,MUS-VH1 Classic (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8321
+#EXTINF:-1,MUS-VH1 Mega Hits (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8322
+#EXTINF:-1,MUS-VH1 Plus (M)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8323
+#EXTINF:-1,NOT-BBC World News (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/10250
+#EXTINF:-1,NOT-CNN en Español (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/10251
+#EXTINF:-1,NOT-CNN en Español (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/10252
+#EXTINF:-1,NOT-CNN USA (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/10253
+#EXTINF:-1,NOT-DW (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/10254
+#EXTINF:-1,NOT-NTN 24 (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/10255
+#EXTINF:-1,NOT-NTN24 (TV)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/10256
+#EXTINF:-1,NOT-Wobi (TV)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/10258
+#EXTINF:-1,NOV-Galavision Miami (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8333
+#EXTINF:-1,NOV-Galavision NY (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/67002
+#EXTINF:-1,NOV-Galavision NY (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8334
+#EXTINF:-1,NOV-Mega Tv Miami (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/67003
+#EXTINF:-1,NOV-Pasiones (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8335
+#EXTINF:-1,NOV-Pasiones (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/67004
+#EXTINF:-1,NOV-Telemundo (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8336
+#EXTINF:-1,NOV-Telemundo (i)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/62093
+#EXTINF:-1,NOV-Telemundo - Atlanta (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8338
+#EXTINF:-1,NOV-Telemundo - Boston (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8339
+#EXTINF:-1,NOV-Telemundo - Boston (i)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/62100
+#EXTINF:-1,NOV-Telemundo - Boston (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8340
+#EXTINF:-1,NOV-Telemundo - Chicago (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8342
+#EXTINF:-1,NOV-Telemundo - Chicago (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8343
+#EXTINF:-1,NOV-Telemundo - Chicago (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8344
+#EXTINF:-1,NOV-Telemundo - Dallas (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8345
+#EXTINF:-1,NOV-Telemundo - Dallas (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8346
+#EXTINF:-1,NOV-Telemundo - Dallas 39 (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8347
+#EXTINF:-1,NOV-Telemundo - Denver (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8348
+#EXTINF:-1,NOV-Telemundo - Fresno (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8349
+#EXTINF:-1,NOV-Telemundo - Houston (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8350
+#EXTINF:-1,NOV-Telemundo - Internacional (L)(HQ)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8351
+#EXTINF:-1,NOV-Telemundo - Las Vegas (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8352
+#EXTINF:-1,NOV-Telemundo - Los Angeles (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8353
+#EXTINF:-1,NOV-Telemundo - Los Angeles (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8354
+#EXTINF:-1,NOV-Telemundo - Los Angeles (Z)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8355
+#EXTINF:-1,NOV-Telemundo - Miami (i)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8356
+#EXTINF:-1,NOV-Telemundo - Miami (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8357
+#EXTINF:-1,NOV-Telemundo - National East (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8359
+#EXTINF:-1,NOV-Telemundo - National West (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8360
+#EXTINF:-1,NOV-Telemundo - New Orleans (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8361
+#EXTINF:-1,NOV-Telemundo - New York (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8362
+#EXTINF:-1,NOV-Telemundo - New York (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8364
+#EXTINF:-1,NOV-Telemundo - Orlando Florida (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8365
+#EXTINF:-1,NOV-Telemundo - Philadelphia (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8366
+#EXTINF:-1,NOV-Telemundo - Phoenix (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8367
+#EXTINF:-1,NOV-Telemundo - Phoenix Arizona (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8368
+#EXTINF:-1,NOV-Telemundo - San Diego (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8371
+#EXTINF:-1,NOV-Telemundo - San Francisco (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8372
+#EXTINF:-1,NOV-Telemundo - San francisco (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8373
+#EXTINF:-1,NOV-Telemundo - Tampa (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8374
+#EXTINF:-1,NOV-Telemundo - Texas (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8375
+#EXTINF:-1,NOV-Telemundo - Washington (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8376
+#EXTINF:-1,NOV-Telemundo - Washington (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8379
+#EXTINF:-1,NOV-Telemundo - Washington (T)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8377
+#EXTINF:-1,NOV-Telemundo - Washington (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8378
+#EXTINF:-1,NOV-Telemundo 31 - Orlando WTMO (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/62094
+#EXTINF:-1,NOV-Telemundo 33 - Phoenix KTAZ (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/62095
+#EXTINF:-1,NOV-Telemundo 39 - Las Vegas (i)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/62096
+#EXTINF:-1,NOV-Telemundo 44 - Chicago (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/62097
+#EXTINF:-1,NOV-Telemundo 48 - San Fransico KSTS (i)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/62098
+#EXTINF:-1,NOV-Telemundo Internacional (i)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/62101
+#EXTINF:-1,NOV-Univision (WXTV-New York NY) (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8392
+#EXTINF:-1,NOV-Univision - TeleNovelas (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/67012
+#EXTINF:-1,NOV-Univision 14 - San Francisco (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/67010
+#EXTINF:-1,NOV-Univision Chicago (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8394
+#EXTINF:-1,NOV-Univision Houston (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8395
+#EXTINF:-1,NOV-Univision Los Angeles (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8396
+#EXTINF:-1,NOV-Univision Los Angeles (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8397
+#EXTINF:-1,NOV-Univision Miami (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8398
+#EXTINF:-1,NOV-Univision Miami (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8399
+#EXTINF:-1,NOV-Univision Network (TV)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8400
+#EXTINF:-1,NOV-Univision New York (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8401
+#EXTINF:-1,NOV-Univision New York (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8402
+#EXTINF:-1,NOV-Univision TLNovelas (TV)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8405
+#EXTINF:-1,NOV-TLNovelas (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8406
+#EXTINF:-1,NOV-Unicable (L)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8381
+#EXTINF:-1,NOV-Unicable (L)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8382
+#EXTINF:-1,NOV-Unicable (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/67006
+#EXTINF:-1,NOV-Unimas (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/67007
+#EXTINF:-1,NOV-UNIMáS (KFTR-Los Angeles CA) (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8384
+#EXTINF:-1,NOV-UNIMáS (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8386
+#EXTINF:-1,NOV-UNIMáS NY (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8388
+#EXTINF:-1,NOV-UNIMáS New York (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8390
+#EXTINF:-1,NOV-Universo (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/67008
+#EXTINF:-1,NOV-Universo (TV)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/8391
+#EXTINF:-1,NOV-Univision (Z)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/67009
+#EXTINF:-1,24/7 Coraje el Perro Cobarde (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162821
+#EXTINF:-1,24/7 Dinosaurios (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162822
+#EXTINF:-1,24/7 Hey Arnold (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162823
+#EXTINF:-1,24/7 El Pajaro Loco (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162824
+#EXTINF:-1,24/7 RANMA (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162829
+#EXTINF:-1,24/7 SAKURA (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162831
+#EXTINF:-1,24/7 alf (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162835
+#EXTINF:-1,24/7 Star Trek (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162836
+#EXTINF:-1,24/7 Batman (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162837
+#EXTINF:-1,24/7 Tom y Jerry (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162845
+#EXTINF:-1,24/7 Doraemon (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162846
+#EXTINF:-1,24/7 Smallville (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162847
+#EXTINF:-1,24/7 Super Campeones (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162848
+#EXTINF:-1,24/7 Scooby Doo (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162849
+#EXTINF:-1,24/7 Samurai X (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162850
+#EXTINF:-1,24/7 POKEMON (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162851
+#EXTINF:-1,24/7 One Punch Man (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162852
+#EXTINF:-1,24/7 Yu-Gi-Oh (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162853
+#EXTINF:-1,24/7 Los Picapiedra (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162854
+#EXTINF:-1,24/7 Naruto (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162855
+#EXTINF:-1,24/7 Looney Tunes (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162856
+#EXTINF:-1,24/7 El Principel del Rap (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162857
+#EXTINF:-1,24/7 El Gallo Claudio (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162872
+#EXTINF:-1,24/7 Los Picapiedra (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162873
+#EXTINF:-1,24/7 One Punch Man (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162875
+#EXTINF:-1,24/7 Pinky y Cerebro (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162876
+#EXTINF:-1,24/7 TrollHunters (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162878
+#EXTINF:-1,24/7 Yu-Gi-Oh! (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162879
+#EXTINF:-1,24/7 DR House (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162881
+#EXTINF:-1,24/7 Alf (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162884
+#EXTINF:-1,24/7 Animaciones (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162885
+#EXTINF:-1,24/7 Bob Esponja (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162888
+#EXTINF:-1,24/7 Coraje Perro Cobarde (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162890
+#EXTINF:-1,24/7 Dinosaurios (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162891
+#EXTINF:-1,24/7 DraginBall (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162893
+#EXTINF:-1,24/7 Dragon BallGT (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162894
+#EXTINF:-1,24/7 Dragon Ball Super (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162895
+#EXTINF:-1,24/7 Dragin Ball Z (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162896
+#EXTINF:-1,24/7 CorreCamino (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162898
+#EXTINF:-1,24/7 Principe de Bel-air (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162899
+#EXTINF:-1,24/7 One Punch Man (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162900
+#EXTINF:-1,24/7 Elfen Lied (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162901
+#EXTINF:-1,24/7 Game of Thrones HD (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162903
+#EXTINF:-1,24/7 Hey Arnold! (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162904
+#EXTINF:-1,24/7 Hora de Aventura (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162905
+#EXTINF:-1,24/7 Las aventuras de Tom Sawyer (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162909
+#EXTINF:-1,24/7 Looney Tunes (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162910
+#EXTINF:-1,24/7 Los Picapiedra (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162912
+#EXTINF:-1,24/7 Naruto (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162914
+#EXTINF:-1,24/7 Naruto Shippuden (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162915
+#EXTINF:-1,24/7 Pinky y Cerebro (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162932
+#EXTINF:-1,24/7 Súper Campeones (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162936
+#EXTINF:-1,24/7 Un Show Más (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162938
+#EXTINF:-1,24/7 Animaniacs [Completo] (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162939
+#EXTINF:-1,24/7 Barón Rojo (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162940
+#EXTINF:-1,24/7 Dinosaurios [Completo] (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162943
+#EXTINF:-1,24/7 Doug (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162944
+#EXTINF:-1,24/7 Ed, Edd y Eddy (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162946
+#EXTINF:-1,24/7 El Coyote y el Correcaminos [Completo] (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162947
+#EXTINF:-1,24/7 El Laboratorio de Dexter [1 - 4T] (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162948
+#EXTINF:-1,24/7 El Pato Darkwing (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162950
+#EXTINF:-1,24/7 Elementary (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162951
+#EXTINF:-1,24/7 Game of Thrones SD (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162953
+#EXTINF:-1,24/7 Garfield y sus amigos (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162954
+#EXTINF:-1,24/7 Happy Tree Friends (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162955
+#EXTINF:-1,24/7 Hey Arnold! [Completo] (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162956
+#EXTINF:-1,24/7 Hora de aventura (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162957
+#EXTINF:-1,24/7 House of Cards (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162958
+#EXTINF:-1,24/7 Hunter x Hunter (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162959
+#EXTINF:-1,24/7 Johnny Bravo (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162960
+#EXTINF:-1,24/7 La pantera rosa Show (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162962
+#EXTINF:-1,24/7 La pantera rosa y sus hijos (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162963
+#EXTINF:-1,24/7 La pantera rosa [Completo] (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162964
+#EXTINF:-1,24/7 La Pequeña Lulú (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162965
+#EXTINF:-1,24/7 La vaca y el pollito (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162966
+#EXTINF:-1,24/7 Las chicas superpoderosas (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162968
+#EXTINF:-1,24/7 Las sombrías aventuras de Billy y Mandy (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162970
+#EXTINF:-1,24/7 Liga De La Justicia Ilimitada (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162971
+#EXTINF:-1,24/7 Loonatics (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162973
+#EXTINF:-1,24/7 Los autos locos (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162974
+#EXTINF:-1,24/7 Los años maravillosos (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162975
+#EXTINF:-1,24/7 Los chicos del barrio (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162977
+#EXTINF:-1,24/7 Calabozos y dragones (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162978
+#EXTINF:-1,24/7 Two and a Half Men [SUB] (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162983
+#EXTINF:-1,24/7 Sin Senos no hay Paraíso (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162984
+#EXTINF:-1,24/7 Sin senos sí hay paraíso (M)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/162985
+#EXTINF:-1,24/7 Cinema - Accion 1 (e)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164581
+#EXTINF:-1,24/7 Cinema - Accion 2 (e)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164582
+#EXTINF:-1,24/7 Cinema - Accion 3 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164583
+#EXTINF:-1,24/7 Cinema - Accion 4 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164584
+#EXTINF:-1,24/7 Cinema - Accion 5 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164586
+#EXTINF:-1,24/7 Cinema - Accion 6 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164781
+#EXTINF:-1,24/7 Cinema - Accion 7 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164782
+#EXTINF:-1,24/7 Cinema - Accion 8 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164783
+#EXTINF:-1,24/7 Cinema - Accion 9 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164787
+#EXTINF:-1,24/7 Cinema - Accion 10 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164788
+#EXTINF:-1,24/7 Cinema - Saga Arma Mortal (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164789
+#EXTINF:-1,24/7 Cinema - Sagas Asaltos (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164790
+#EXTINF:-1,24/7 Cinema - Sagas Asesinos (e)(1080)(Dual Audio)  
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164791
+#EXTINF:-1,24/7 Cinema - Saga Duro de Matar (e)(1080)(Dual Audio)  
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164792
+#EXTINF:-1,24/7 Cinema - Saga Ip Man (e)(1080)(Dual Audio)  
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164793
+#EXTINF:-1,24/7 Cinema - Saga John Wick (e)(1080)(Dual Audio)  
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164794
+#EXTINF:-1,24/7 Cinema - Saga: Karate Kid (e)(1080)(Dual Audio)  
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164795
+#EXTINF:-1,24/7 Cinema - Saga Kickboxer (e)(1080)(Dual Audio)  
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164796
+#EXTINF:-1,24/7 Cinema - Sagas: Kung fu (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164797
+#EXTINF:-1,24/7 Cinema - Saga: Mision Imposible (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164798
+#EXTINF:-1,24/7 Cinema - Saga: Rambo (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164799
+#EXTINF:-1,24/7 Cinema - Saga: Rapidos y Furiosos (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164800
+#EXTINF:-1,24/7 Cinema - Saga: Taxi Drive (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164801
+#EXTINF:-1,24/7 Cinema - Netflix Premier 1 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164802
+#EXTINF:-1,24/7 Cinema - Netflix Premier 2 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164863
+#EXTINF:-1,24/7 Cinema - Netflix Premier 3 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164864
+#EXTINF:-1,24/7 Cinema - Netflix Premier 4 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164865
+#EXTINF:-1,24/7 Cinema - Netflix Premier 5 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164866
+#EXTINF:-1,24/7 Cinema - Netflix Premier 6 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164867
+#EXTINF:-1,24/7 Cinema - Netflix Premier 7 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164868
+#EXTINF:-1,24/7 Cinema - Amazon Prime 1 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164869
+#EXTINF:-1,24/7 Cinema - Amazon Prime 2 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164870
+#EXTINF:-1,24/7 Cinema - Amazon Prime 3 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164871
+#EXTINF:-1,24/7 Cinema - Amazon Prime 4 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164934
+#EXTINF:-1,24/7 Cinema - Amazon Prime 5 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164935
+#EXTINF:-1,24/7 Cinema - Amazon Prime 6 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164936
+#EXTINF:-1,24/7 Cinema - Amazon Prime 7 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164937
+#EXTINF:-1,24/7 Cinema - Amazon Prime 8 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164938
+#EXTINF:-1,24/7 Cinema - Amazon Prime 9 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164939
+#EXTINF:-1,24/7 Cinema - Amazon Prime 10 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164940
+#EXTINF:-1,24/7 Cinema - HBO MAX (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164941
+#EXTINF:-1,24/7 Cinema - 4K (e)(4K)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164942
+#EXTINF:-1,24/7 Cinema - Infantil 1 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164943
+#EXTINF:-1,24/7 Cinema - Infantil 2 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164944
+#EXTINF:-1,24/7 Cinema - Sagas: Barbie (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164945
+#EXTINF:-1,24/7 Cinema - Infantil 3 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164946
+#EXTINF:-1,24/7 Cinema - Sagas: Batman Animado (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164947
+#EXTINF:-1,24/7 Cinema - Sagas: Batman (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164948
+#EXTINF:-1,24/7 Cinema - Animacion 1 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164949
+#EXTINF:-1,24/7 Cinema - Animacion 2 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164950
+#EXTINF:-1,24/7 Cinema - Disney Cinema 1 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164951
+#EXTINF:-1,24/7 Cinema - Disney Cinema 2 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164952
+#EXTINF:-1,24/7 Cinema - Disney Animacion 1 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164953
+#EXTINF:-1,24/7 Cinema - Disney Animacion 2 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164954
+#EXTINF:-1,24/7 Cinema - Disney Animacion 3 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164955
+#EXTINF:-1,24/7 Cinema - APPLE TV (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164956
+#EXTINF:-1,24/7 Cinema - Aventura (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164957
+#EXTINF:-1,24/7 Cinema - Fantasia (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164958
+#EXTINF:-1,24/7 Cinema - Comedias 1 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164959
+#EXTINF:-1,24/7 Cinema - Comedias 2 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164960
+#EXTINF:-1,24/7 Cinema - Comedias 3 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164961
+#EXTINF:-1,24/7 Cinema - Comedias 4 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164962
+#EXTINF:-1,24/7 Cinema - Comedias 5 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164963
+#EXTINF:-1,24/7 Cinema - Comedias 6 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164964
+#EXTINF:-1,24/7 Cinema - Comedias 7 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164965
+#EXTINF:-1,24/7 Cinema - Comedias 8 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164966
+#EXTINF:-1,24/7 Cinema - Sagas: American Pie (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164967
+#EXTINF:-1,24/7 Cinema - Sagas: Scary Movie (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164968
+#EXTINF:-1,24/7 Cinema - Sagas: Loca Academia de Policias (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164969
+#EXTINF:-1,24/7 Cinema - Sagas: Harry Potter (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164970
+#EXTINF:-1,24/7 Cinema - Sagas: Harry Potter (e)(4K)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164971
+#EXTINF:-1,24/7 Cinema - Sagas: Star Wars (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164972
+#EXTINF:-1,24/7 Cinema - Sagas: Star Wars (e)(4K)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164973
+#EXTINF:-1,24/7 Cinema - Sagas: El Señor de los Anillos (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164974
+#EXTINF:-1,24/7 Cinema - Sagas: Jurassic Park (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164975
+#EXTINF:-1,24/7 Cinema - Sagas: 007 James Bond - Sean Connery (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164976
+#EXTINF:-1,24/7 Cinema - Sagas: 007 James Bond - Roger Moore (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164977
+#EXTINF:-1,24/7 Cinema - Sagas: 007 James Bond - Timothy Dalton (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164978
+#EXTINF:-1,24/7 Cinema - Sagas: 007 James Bond - Pierce Brosnan (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164979
+#EXTINF:-1,24/7 Cinema - Sagas: 007 James Bond - Daniel Craig (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164980
+#EXTINF:-1,24/7 Cinema - Sagas: El Planeta de los Simios - Moderno (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164981
+#EXTINF:-1,24/7 Cinema - Sagas: El Planeta de los Simios - Clasico (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164982
+#EXTINF:-1,24/7 Cinema - Sagas: Toy Story (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164983
+#EXTINF:-1,24/7 Cinema - Sagas: Madagascar (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164984
+#EXTINF:-1,24/7 Cinema Infantil - Sagas: La Era del hielo (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164985
+#EXTINF:-1,24/7 Cinema Comedias - Sagas: Asu Mare (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164986
+#EXTINF:-1,24/7 Cinema Terror - Halloween (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164987
+#EXTINF:-1,24/7 Cinema Terror - SAW (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164988
+#EXTINF:-1,24/7 Cinema Terror - El Conjuro (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164989
+#EXTINF:-1,24/7 Cinema Terror - Sagas: Alien (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164990
+#EXTINF:-1,24/7 Cinema Terror - Sagas: Resident Evil (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164991
+#EXTINF:-1,24/7 Cinema Terror - Sagas: Underworld (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164992
+#EXTINF:-1,24/7 Cinema Terror - Sagas: Viernes 13 (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164993
+#EXTINF:-1,24/7 Cinema Terror - Sagas: Pesadilla en Elm Street (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164994
+#EXTINF:-1,24/7 Cinema Terror - Sagas: La Maldicion (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164995
+#EXTINF:-1,24/7 Cinema Terror - Sagas: El Duende Maldito "Leprechaun" (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164996
+#EXTINF:-1,24/7 Cinema Terror - Sagas: Chucky (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/164997
+#EXTINF:-1,24/7 Cinema Accion - Sagas: The Matrix (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165064
+#EXTINF:-1,24/7 Cinema Ficcion - Sagas: Spider Man (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165066
+#EXTINF:-1,24/7 Cinema Ficcion - Sagas: Guardianes de la Galaxia (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165067
+#EXTINF:-1,24/7 Cinema Ficcion - Sagas: Marvel Universo (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165065
+#EXTINF:-1,24/7 Cinema Ficcion - Sagas: Marvel (e)(1080)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165068
+#EXTINF:-1,24/7 Series Narcos - El Chapo (e)(1080)(Dual)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165069
+#EXTINF:-1,24/7 Series Narcos - El Chema (e)(1080)(Dual)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165070
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 1" (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165071
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 2" (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165072
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 3" (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165073
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 4" (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165074
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 5" (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165075
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 6" (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165076
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 7" (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165077
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 8" (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165078
+#EXTINF:-1,24/7 Series Narcos - El Señor de los Cielos "Temporada 9" (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165079
+#EXTINF:-1,24/7 Series Narcos - Sobreviviendo a Escobar, Alias JJ (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165080
+#EXTINF:-1,24/7 Series Narcos - El General Naranjo (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165081
+#EXTINF:-1,24/7 Series Narcos - La Reina del Sur (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165082
+#EXTINF:-1,24/7 Series Narcos - Las muñecas de la mafia (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165083
+#EXTINF:-1,24/7 Series Narcos - Las muñecas de la mafia 2 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165084
+#EXTINF:-1,24/7 Series Narcos - Narcos: México (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165085
+#EXTINF:-1,24/7 Series Narcos - El cartel de los sapos: El origen (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165183
+#EXTINF:-1,24/7 Series Narcos - Narcos (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165184
+#EXTINF:-1,24/7 Series Narcos - El Capo (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165186
+#EXTINF:-1,24/7 Series Narcos - Pablo Escobar (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165187
+#EXTINF:-1,24/7 Series Narcos - Tres Caines (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165195
+#EXTINF:-1,24/7 Series Narcos - El Cartel de los Sapos 1 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165197
+#EXTINF:-1,24/7 Series Narcos - El Cartel de los Sapos 2 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165198
+#EXTINF:-1,24/7 Series Crimen - 911 (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165200
+#EXTINF:-1,24/7 Series Crimen - Barry (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165201
+#EXTINF:-1,24/7 Series Crimen - Blindspot (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165202
+#EXTINF:-1,24/7 Series Crimen - Boardwalk Empire (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165356
+#EXTINF:-1,24/7 Series Crimen - Bones Temp. 1 al 6 (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165357
+#EXTINF:-1,24/7 Series Crimen - Codigos de familia Temp. 1 al 7 (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165203
+#EXTINF:-1,24/7 Series Crimen - Bones Temp. 7 al 12 (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165358
+#EXTINF:-1,24/7 Series Crimen - Breaking Bad (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165359
+#EXTINF:-1,24/7 Series Crimen - Chicago Fire Temp.1al7 (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165360
+#EXTINF:-1,24/7 Series Crimen - Chicago Fire Temp. 8al14 (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165361
+#EXTINF:-1,24/7 Series Crimen - Chicago Justice (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165362
+#EXTINF:-1,24/7 Series Crimen - Chicago Med (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165363
+#EXTINF:-1,24/7 Series Crimen - Chicago P.D (e)(720) (Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165364
+#EXTINF:-1,24/7 Series Crimen - Mentes Criminales (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165365
+#EXTINF:-1,24/7 Series Crimen - CSI Miami (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165366
+#EXTINF:-1,24/7 Series Crimen - CSI: New York (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165367
+#EXTINF:-1,24/7 Series Crimen - CSI: Las Vegas (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165368
+#EXTINF:-1,24/7 Series Crimen - CSI: Cyber (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165369
+#EXTINF:-1,24/7 Series Crimen - Dexter (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165370
+#EXTINF:-1,24/7 Series Crimen - El Marginal (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165473
+#EXTINF:-1,24/7 Series Crimen - Gangsters de Londres (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165474
+#EXTINF:-1,24/7 Series Crimen - El Padrino de Harlem (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165475
+#EXTINF:-1,24/7 Series Crimen - Hannibal (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165476
+#EXTINF:-1,24/7 Crimen - Hawaii Five-0 (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165477
+#EXTINF:-1,24/7 Series Crimen - La Casa de Papel (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165478
+#EXTINF:-1,24/7 Series Crimen - La Ley y el Orden: U.V.C (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165479
+#EXTINF:-1,24/7 Series Crimen - La Ley y el Orden: Crimen Organizado (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165480
+#EXTINF:-1,24/7 Series Crimen - Mr. Robot (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165481
+#EXTINF:-1,24/7 Series Crimen - NCIS: Los Angeles (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165544
+#EXTINF:-1,24/7 Series Crimen - Peaky Blinders (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165545
+#EXTINF:-1,24/7 Series Crimen - Prison Break (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165546
+#EXTINF:-1,24/7 Series Crimen - Riverdale (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165547
+#EXTINF:-1,24/7 Series Crimen - Scorpion (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165548
+#EXTINF:-1,24/7 Series Crimen - El Mentalista (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165549
+#EXTINF:-1,24/7 Series Crimen - White Collar (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165550
+#EXTINF:-1,24/7 Series Crimen - NCIS: Criminología Naval (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165551
+#EXTINF:-1,24/7 Series Crimen - Better Call Saul (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165552
+#EXTINF:-1,24/7 Series Crimen - Tulsa King (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165553
+#EXTINF:-1,24/7 Series Crimen - The Rookie (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165554
+#EXTINF:-1,24/7 Series Crimen - S.W.A.T. (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165555
+#EXTINF:-1,24/7 Series Comedias - Casados con Hijos (ARG)(e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165556
+#EXTINF:-1,24/7 Series Comedias - Comedy Central Stand-Up (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165557
+#EXTINF:-1,24/7 Series Comedias - 40 y 20 Parte 1 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165559
+#EXTINF:-1,24/7 Series Comedias - 40 y 20 Parte 2 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165560
+#EXTINF:-1,24/7 Series Comedias - Aida (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165612
+#EXTINF:-1,24/7 Series Comedias - Aquí no hay quien viva (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165621
+#EXTINF:-1,24/7 Series Comedias - El Chavo del Ocho (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165622
+#EXTINF:-1,24/7 Series Comedias - El Chapulín Colorado (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/165887
+#EXTINF:-1,24/7 Series Comedias - El Chavo del Ocho (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166082
+#EXTINF:-1,24/7 Series Comedias - El Pueblo (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166084
+#EXTINF:-1,24/7 Series Comedias - Todos Odian a Chris (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166085
+#EXTINF:-1,24/7 Series Comedias - Friends: Parte 1 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166086
+#EXTINF:-1,24/7 Series Comedias - Friends: Parte 2 (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166087
+#EXTINF:-1,24/7 Series Comedias - Full House: Parte 1 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166090
+#EXTINF:-1,24/7 Series Comedias - Full House: Parte 2 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166091
+#EXTINF:-1,24/7 Series Comedias - Como Conoci a tu Madre (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166092
+#EXTINF:-1,24/7 Series Comedias - La familia P. Luche (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166093
+#EXTINF:-1,24/7 Series Comedias - La que se avecina: Parte 1 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166094
+#EXTINF:-1,24/7 Series Comedias - La que se avecina: Parte 2 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166095
+#EXTINF:-1,24/7 Series Comedias - Malcolm (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166096
+#EXTINF:-1,LA CASA DE LOS FAMOSOS COLOMBIA ( Main )
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166110
+#EXTINF:-1,LA CASA DE LOS FAMOSOS COLOMBIA ( Sala )
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166111
+#EXTINF:-1,LA CASA DE LOS FAMOSOS COLOMBIA ( Comedor )
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166112
+#EXTINF:-1,LA CASA DE LOS FAMOSOS COLOMBIA ( Team Calma )
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166113
+#EXTINF:-1,LA CASA DE LOS FAMOSOS COLOMBIA ( Team Tormenta )
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166114
+#EXTINF:-1,LA CASA DE LOS FAMOSOS COLOMBIA ( Beaty )
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166115
+#EXTINF:-1,LA CASA DE LOS FAMOSOS COLOMBIA ( Banos )
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166116
+#EXTINF:-1,El Internado - Hasta el más duro Aprende
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166117
+#EXTINF:-1,CL: Fanaticos Mundos Opuestos
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166118
+#EXTINF:-1,24/7 Series Comedias - Modern Family: Parte 1 (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166218
+#EXTINF:-1,24/7 Series Comedias - Modern Family: Parte 2 (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166219
+#EXTINF:-1,24/7 Series Comedias - Scrubs (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166220
+#EXTINF:-1,24/7 Series Comedias - Sexo en la Ciudad (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166221
+#EXTINF:-1,24/7 Series Comedias - Superstore (e)(720)(Trial Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166222
+#EXTINF:-1,24/7 Series Comedias - Ted Lasso (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166223
+#EXTINF:-1,24/7 Series Comedias - The Big Bang Theory: Parte 1 (e)(720)(Dual Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166304
+#EXTINF:-1,24/7 Series Comedias - The Big Bang Theory: Parte 2 (e)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166305
+#EXTINF:-1,24/7 Series Comedias - La Oficina (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166306
+#EXTINF:-1,24/7 Series Comedias - Dos Hombres y Medio: Parte 1 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166307
+#EXTINF:-1,24/7 Series Comedias - Dos Hombres y Medio: Parte 2 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166308
+#EXTINF:-1,24/7 Series Comedias - Una familia de diez (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166420
+#EXTINF:-1,24/7 Series Comedias - Vecinos MX (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166865
+#EXTINF:-1,24/7 Series Comedias - El Joven Sheldon (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166866
+#EXTINF:-1,24/7 Betty la Fea: Parte 1 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166967
+#EXTINF:-1,24/7 Betty la Fea: Parte 2 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166968
+#EXTINF:-1,24/7 Betty la Fea: Parte 3 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166969
+#EXTINF:-1,24/7 Josué y la tierra prometida (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166970
+#EXTINF:-1,24/7 Novelas - Tres milagros (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166971
+#EXTINF:-1,24/7 Novelas - Cuna de Lobos (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166972
+#EXTINF:-1,24/7 Novelas - La usurpadora (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166973
+#EXTINF:-1,24/7 Novelas - Rubi 2020 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166974
+#EXTINF:-1,24/7 Novelas - Rubi (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/166975
+#EXTINF:-1,24/7 Novelas - Josue y la tierra prometida (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/168027
+#EXTINF:-1,24/7 Novelas - Abrázame muy fuerte (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/168028
+#EXTINF:-1,24/7 Novelas - A Corazon Abierto (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/168029
+#EXTINF:-1,24/7 Novelas - Jesus (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/168030
+#EXTINF:-1,24/7 Novelas - Al diablo con los guapos (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/168031
+#EXTINF:-1,24/7 Novelas - A mano limpia (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/168032
+#EXTINF:-1,24/7 Novelas - Rey David (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/168033
+#EXTINF:-1,24/7 Novelas - Alma De Hierro (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/168034
+#EXTINF:-1,24/7 Novelas - Alias el Mexicano (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/168035
+#EXTINF:-1,24/7 Novelas - Apocalipse (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/168036
+#EXTINF:-1,24/7 Novelas - Amar Otra Vez (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/168037
+#EXTINF:-1,24/7 Novelas - Amantes Del Desierto (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/168038
+#EXTINF:-1,24/7 Retro - Batman: La Serie Animada (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/168380
+#EXTINF:-1,24/7 Infantil - Rugrats Crecidos (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169533
+#EXTINF:-1,24/7 Infantil - Avatar: La leyenda de Aang (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169534
+#EXTINF:-1,24/7 Infantil - Ben 10: Supremacia Alienigena  (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169535
+#EXTINF:-1,24/7 Infantil - Bob Esponja (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169536
+#EXTINF:-1,24/7 Infantil - KND: Los chicos del barrio (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169537
+#EXTINF:-1,24/7 Infantil - El increible mundo de Gumball (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169538
+#EXTINF:-1,24/7 Infantil - Jefe en Pañales (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169539
+#EXTINF:-1,24/7 Infantil - El Chavo Animado (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169540
+#EXTINF:-1,24/7 Infantil - El Pajaro Loco y sus amigos (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169541
+#EXTINF:-1,24/7 Infantil - En busca del valle encantado: La serie (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169542
+#EXTINF:-1,24/7 Infantil - Rapunzel (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169543
+#EXTINF:-1,24/7 Infantil - Gravity Falls (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169544
+#EXTINF:-1,24/7 Infantil - Hora de Aventura (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169545
+#EXTINF:-1,24/7 Infantil - Hotel Transilvania: La serie (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169546
+#EXTINF:-1,24/7 Infantil - Jimmy Neutron (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169547
+#EXTINF:-1,24/7 Infantil - Kick Buttowski (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169548
+#EXTINF:-1,24/7 Infantil - Kung Fu Panda: La Leyenda de Po (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169549
+#EXTINF:-1,24/7 Infantil - La princesa Sofía (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169550
+#EXTINF:-1,24/7 Infantil - La sirenita (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169551
+#EXTINF:-1,24/7 Retro - La Tropa Goofy (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169552
+#EXTINF:-1,24/7 Infantil - Capitan Calzoncillos (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169553
+#EXTINF:-1,24/7 Infantil - Billy y Mandy (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169554
+#EXTINF:-1,24/7 Retro - Winnie the Pooh (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169555
+#EXTINF:-1,24/7 Infantil - Las nuevas locuras del emperador (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169556
+#EXTINF:-1,24/7 Retro - Las Tortugas Ninja (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169557
+#EXTINF:-1,24/7 Infantil - LazyTown (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169558
+#EXTINF:-1,24/7 Infantil - Lilo y Stitch (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169559
+#EXTINF:-1,24/7 Infantil - Looney Tunes Platinum V1 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169560
+#EXTINF:-1,24/7 Infantil - Looney Tunes Platinum V2 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169561
+#EXTINF:-1,24/7 Infantil - Looney Tunes Platinum V3 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169562
+#EXTINF:-1,24/7 Retro - Looney Tunes and Merrie Melodies (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169563
+#EXTINF:-1,24/7 Infantil - Los padrinos mágicos (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169564
+#EXTINF:-1,24/7 Retro - Los pequeños Picapiedras (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169565
+#EXTINF:-1,24/7 Infantil - Los pingüinos de Madagascar (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169566
+#EXTINF:-1,24/7 Retro - Los Pitufos (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169567
+#EXTINF:-1,24/7 Infantil - Peppa Pig (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169568
+#EXTINF:-1,24/7 Infantil - Phineas y Ferb (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169569
+#EXTINF:-1,24/7 Retro - Pinky y Cerebro (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169570
+#EXTINF:-1,24/7 Infantil - Pocoyo (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169571
+#EXTINF:-1,24/7 Infantil - Un show mas (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169572
+#EXTINF:-1,24/7 Retro - Rugrats: Aventuras en pañales (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169573
+#EXTINF:-1,24/7 Infantil - Scooby Doo y compañía (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169574
+#EXTINF:-1,24/7 Retro - Spiderman (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169575
+#EXTINF:-1,24/7 Infantil - Teen Titans (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169576
+#EXTINF:-1,24/7 Infantil - El Show de los Looney Tunes (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/169577
+#EXTINF:-1,24/7 Juveniles - Big Time Rush (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/173426
+#EXTINF:-1,24/7 Juveniles - Agente K.C. (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/173427
+#EXTINF:-1,24/7 Retro - CatDog (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/173428
+#EXTINF:-1,24/7 Juveniles - Drake y Josh (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/173429
+#EXTINF:-1,24/7 Juveniles - Buena Suerte Charlie (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/173431
+#EXTINF:-1,24/7 Juveniles - Hanna Montana (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/173432
+#EXTINF:-1,24/7 Juveniles - Henry Danger (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/173433
+#EXTINF:-1,24/7 Juveniles - iCarly (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/173434
+#EXTINF:-1,24/7 Juveniles - Kenan y Kel (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/173435
+#EXTINF:-1,24/7 Retro - ALF (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/174837
+#EXTINF:-1,24/7 Retro - Hechizada (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/174838
+#EXTINF:-1,24/7 Retro - Bonanza (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/174839
+#EXTINF:-1,24/7 Retro - Buffy la cazavampiros (e)(720)(Dual)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/174840
+#EXTINF:-1,24/7 Retro - El Super Agente 86 (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/174841
+#EXTINF:-1,24/7 Retro - Mi Bella Genio (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/174842
+#EXTINF:-1,24/7 Lizzie McGuire (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/175552
+#EXTINF:-1,24/7 Manual de supervivencia escolar de Ned (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/175553
+#EXTINF:-1,24/7 Retro - Aunque usted no lo crea de Ripley (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/176973
+#EXTINF:-1,24/7 Retro - Comisario Rex (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/176974
+#EXTINF:-1,24/7 Retro - El Auto Fantástico (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/176975
+#EXTINF:-1,24/7 Retro - Los Magníficos (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/176976
+#EXTINF:-1,24/7 Retro - Escalofríos (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177117
+#EXTINF:-1,24/7 Retro - La Tremenda Corte (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177119
+#EXTINF:-1,24/7 Retro - La familia Ingalls (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177121
+#EXTINF:-1,24/7 Retro - Cuentos de la Cripta (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177122
+#EXTINF:-1,24/7 Retro - Los Cuentos de la Cripta (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177123
+#EXTINF:-1,24/7 Retro - MacGyver (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177125
+#EXTINF:-1,24/7 Retro - Robocop (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177127
+#EXTINF:-1,24/7 Retro - Salvados por la Campana (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177128
+#EXTINF:-1,24/7 Retro - Los locos Addams (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177129
+#EXTINF:-1,24/7 Retro - Los Dukes de Hazzard (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177130
+#EXTINF:-1,24/7 Retro - La familia Monster (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177131
+#EXTINF:-1,24/7 Retro - Los Tres Chiflados (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177132
+#EXTINF:-1,24/7 Retro - Los años maravillosos (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177133
+#EXTINF:-1,24/7 Retro - Walker Comisario de Texas (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177134
+#EXTINF:-1,24/7 Retro - Xena: La Princesa Guerrera (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177135
+#EXTINF:-1,24/7 Western Clasicos 1 (e)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177728
+#EXTINF:-1,24/7 Western Clasicos 2 (e)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177729
+#EXTINF:-1,24/7 Series - American Dad (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177730
+#EXTINF:-1,24/7 Series - BoJack Horseman (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177731
+#EXTINF:-1,24/7 Series - Daria (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177732
+#EXTINF:-1,24/7 Series - (Des)encanto (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177733
+#EXTINF:-1,24/7 Series - La Casa de los Dibujos (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177734
+#EXTINF:-1,24/7 Series - Padre de Familia Tem. 1 al 5 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177735
+#EXTINF:-1,24/7 Series - Padre de Familia Tem. 6 al 11 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177736
+#EXTINF:-1,24/7 Series - Padre de Familia Tem. 12 al 18 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177737
+#EXTINF:-1,24/7 Series - Padre de Familia Tem. 19 al 24 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177738
+#EXTINF:-1,24/7 Series - Futurama Tem. 1 al 5 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177739
+#EXTINF:-1,24/7 Series - Futurama Tem. 6 al 13 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/177740
+#EXTINF:-1,PPV 1 - (E)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178774
+#EXTINF:-1,PPV 2 - (E)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178775
+#EXTINF:-1,PPV 3 - (E)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178776
+#EXTINF:-1,PPV 4 - (E)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178777
+#EXTINF:-1,24/7 Amor a la plancha (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178783
+#EXTINF:-1,24/7 Angel de la Guarda Mi Dulce Compañia (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178784
+#EXTINF:-1,24/7 Bermúdez (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178785
+#EXTINF:-1,24/7 Bloque de búsqueda (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178786
+#EXTINF:-1,24/7 Chepe Fortuna (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178787
+#EXTINF:-1,24/7 Los Reyes de la Colina (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178788
+#EXTINF:-1,24/7 Paradise PD (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178789
+#EXTINF:-1,24/7 Doña Bella (e)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178790
+#EXTINF:-1,24/7 Ecomoda (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178791
+#EXTINF:-1,24/7 Rick y Morty (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178792
+#EXTINF:-1,24/7 El Amor Es Mas Fuerte (e)(SD)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178793
+#EXTINF:-1,24/7 Solar Opposites (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178794
+#EXTINF:-1,24/7 El Autentico Rodrigo Leal
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178795
+#EXTINF:-1,24/7 El Bronx
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178796
+#EXTINF:-1,24/7 South Park Temp 1 al 14 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178797
+#EXTINF:-1,24/7 Mythic Quest (e)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178806
+#EXTINF:-1,24/7 South Park Temp 15 al 28 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178807
+#EXTINF:-1,24/7 El encantador 
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178822
+#EXTINF:-1,24/7 Los Simpson Temp. 1 al 9 (e)(720)(Trial Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178834
+#EXTINF:-1,24/7 El inutil 
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178835
+#EXTINF:-1,24/7 Los Simpson Temp. 10 al 19 (e)(720)(Trial Audio)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178836
+#EXTINF:-1,24/7 El man es Germán 
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178837
+#EXTINF:-1,24/7 Los Simpson Temp. 20 al 29 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178839
+#EXTINF:-1,24/7 Los Simpson Temp. 30 al 37 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178841
+#EXTINF:-1,24/7 En Los Tacones De Eva
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178842
+#EXTINF:-1,24/7 Gabriela, giros del destino 
+http://194.76.0.229:8080/renzoq/fc4a920f7318/178844
+#EXTINF:-1,24/7 Hasta Que La Plata Nos Separe (2022)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179002
+#EXTINF:-1,24/7 Hermanitas Calles (2016)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179003
+#EXTINF:-1,24/7 Hilo De Sangre Azul
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179004
+#EXTINF:-1,24/7 Hilos De Amor
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179005
+#EXTINF:-1,24/7 Historias Clasificadas (2012)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179006
+#EXTINF:-1,24/7 Juegos Prohibidos 
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179007
+#EXTINF:-1,24/7 La baby sister (2000)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179008
+#EXTINF:-1,24/7 Super Campeones (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179009
+#EXTINF:-1,24/7 La Caponera (1990)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179010
+#EXTINF:-1,24/7 La costeña y el cachaco (2003)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179012
+#EXTINF:-1,24/7 Dragon Ball - Saga de Pilaf (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179011
+#EXTINF:-1,24/7 Dragon Ball - Saga 21° Torneo de las artes Marciales (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179196
+#EXTINF:-1,24/7 Dragon Ball - Saga de la Patrulla Roja (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179197
+#EXTINF:-1,24/7 Dragon Ball - Saga el Palacio de Uranai Baba (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179198
+#EXTINF:-1,24/7 Dragon Ball - Saga 22° Torneo de las Artes Marciales (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179200
+#EXTINF:-1,24/7 Dragon Ball - Saga Piccolo Daimaku (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179201
+#EXTINF:-1,24/7 Dragon Ball - Saga 23° Torneo de las Artes Marciales (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179202
+#EXTINF:-1,24/7 Dragon Ball Z - Saga Saiyajin (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179013
+#EXTINF:-1,24/7 Dragon Ball Z - Saga Freezer (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179014
+#EXTINF:-1,24/7 Dragon Ball Z - Saga Garlic Jr. (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179016
+#EXTINF:-1,24/7 Dragon Ball Z - Saga Androides (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179018
+#EXTINF:-1,24/7 Dragon Ball Z - Saga Cell (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179019
+#EXTINF:-1,24/7 Dragon Ball Z - Saga Torneo del Otro Mundo (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179020
+#EXTINF:-1,24/7 Dragon Ball Z - Saga 25º. Torneo de las artes Marciales (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179021
+#EXTINF:-1,24/7 Dragon Ball Z - Saga Majin Buu (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179022
+#EXTINF:-1,24/7 Dragon Ball GT - Saga Estrella Negra (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179024
+#EXTINF:-1,24/7 Dragon Ball GT - Saga Baby (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179025
+#EXTINF:-1,24/7 Dragon Ball GT - Saga Super Android 17 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179026
+#EXTINF:-1,24/7 Dragon Ball GT - Saga Shadow Dragon (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179028
+#EXTINF:-1,24/7 Dragon Ball Super - Saga la Batalla de los Dioses (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179029
+#EXTINF:-1,24/7 Dragon Ball Super - Saga Golden Freezer (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179030
+#EXTINF:-1,24/7 Dragon Ball Super - Saga Torneo del Universo 6 (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179031
+#EXTINF:-1,24/7 Dragon Ball Super - Saga Zamasu (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179032
+#EXTINF:-1,24/7 Dragon Ball Super - Saga Torneo de la Fuerza (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179033
+#EXTINF:-1,24/7 Dragon Ball Z Kai (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179034
+#EXTINF:-1,24/7 Dragon Ball Daima (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179035
+#EXTINF:-1,24/7 Dragon Ball Heroes (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179036
+#EXTINF:-1,24/7 La gloria de Lucho (2019)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179015
+#EXTINF:-1,24/7 La mujer en el espejo (1997)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179017
+#EXTINF:-1,24/7 La Nocturna
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179023
+#EXTINF:-1,24/7 La Pasión Según Nuestros Días
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179027
+#EXTINF:-1,24/7 La reina del Flow
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179037
+#EXTINF:-1,24/7 La Saga Negocio de Familia (2004)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179195
+#EXTINF:-1,24/7 La Seleccion (2014)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179199
+#EXTINF:-1,24/7 Lady, La Vendedora De Rosas (2015)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179203
+#EXTINF:-1,24/7 Los Reyes
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179204
+#EXTINF:-1,24/7 Luzbel está de visita 
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179205
+#EXTINF:-1,24/7 Pa' Quererte (2020)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179206
+#EXTINF:-1,24/7 Pandillas guerra y paz (1999)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179207
+#EXTINF:-1,24/7 Pecados Capitales (2002)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179216
+#EXTINF:-1,24/7 Pedro El Escamoso (2001)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/179217
+#EXTINF:-1,Liga ESV opcion1 (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/173677
+#EXTINF:-1,Liga ESV opcion2 (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/173678
+#EXTINF:-1,Liga HN (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/173679
+#EXTINF:-1,Liga GT OP2 (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/173681
+#EXTINF:-1,ECU- Canal del Futbol (e)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/107639
+#EXTINF:-1,ECU- Canal del Futbol (e)(720)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/107640
+#EXTINF:-1,ECU- El Canal del Futbol (M)(1080)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/109833
+#EXTINF:-1,EC | 04 • LIGA PR0 (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/175752
+#EXTINF:-1,EC | 05 • LIGA PR0 (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/175753
+#EXTINF:-1,EC | 01 • LIGA PR0 ( EXCLUSIVO CLIENTES ) (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/175754
+#EXTINF:-1,EC | 02 • LIGA PR0 ( EXCLUSIVO CLIENTES ) (Z)
+http://194.76.0.229:8080/renzoq/fc4a920f7318/175755
+
+--------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
 
 
 
