@@ -97,11 +97,10 @@ https://castv10.plugstreaming.com:19360/redtv/1080p.m3u8
 https://rtp.noxun.net/hls720/stream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="BOLIVIA", BOLIVIA TV 1
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(vj3uCqL4eAR5aIsObTVUJmMxh9G7-iv3Mphc6W4ju_5q_zX6g_T4flPi6Iyf47MpVckUPXvLfAEgaV0KoN-81J3C02goRlaLkJ7w1oXC9u7xtURboXZJDzAFmbGgb6bw)/cloud/3/x9nzqpo/d/live-480.m3u8#cell=lcf2-eu-north-1b
-
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(aXExAZaEWa7l0pQ_DNrjOMB-aO5wUnGXmnTeQDH_N-6QjTw3unLpjmMZWJjVlb0ptmP9GDb1W0fMeC-nOCjIJBsTziPMG-PSDGDWBGbRnJCaCTOnVn8TiG2r3-0JjNyh)/cloud/3/x9nzqpo/d/live-480.m3u8#cell=lcf2-eu-north-1b
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="BOLIVIA", BOLIVIA TV 2
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(H4vhSG1zAr2d1UwPKvVJPdcqZOeMCHmRnfhTtfCfMAzOTl-WKTPqTybyatTNx6PzM-Ru25Pk4tmHPmKBCkaAK2kSRcMUg4DO2wtzQjhHXoh0Qs8enDOIp1e4BFDcMdz5)/cloud/3/x9ny70y/d/live-480.m3u8#cell=lcf2-eu-north-1a
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(UAkdhKSiuX9-R2aS9IRq2yRsQtJvPSZEQLTzICbrL16eqRpMO5AUuiqupKbKjLWJfRPvYONr5oCyDOEKZFR6AVUhbQm9bWXlZLPOW1QCvRm38vLjx8AkmTzMNrGe1A8T)/cloud/3/x9ny70y/d/live-480.m3u8#cell=lcf2-eu-north-1b
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", BOLIVISION LP
 https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/medialist_15609871089997455276_hls.m3u8
