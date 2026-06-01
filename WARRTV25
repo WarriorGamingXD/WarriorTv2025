@@ -18,13 +18,13 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nxYJ31f/W.png" group-title="BOLIVIA", WISE TV
-https://live.enhdtv.com:8081/8150/tracks-v1a1/mono.m3u8
+https://edge.enhdtv.com/8150/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://tele6.tv.bo/wp-content/uploads/2025/07/274641706_102980908995414_2209904193207960606_n-removebg-preview.png" group-title="BOLIVIA", TELE 6
 https://59d39900ebfb8.streamlock.net/tele6/tele6/chunklist_w1758702279.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wFLRx5gQ/imagen-2026-01-02-130829760.png" group-title="BOLIVIA", ADA DIGITAL
-
+https://edge.enhdtv.com/8214/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHX89Zyg/PTV-HD.jpg" group-title="BOLIVIA", PACEÑISIMA TV HD
 https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/chunks.m3u8
@@ -33,7 +33,7 @@ https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhhznS3t/11111111111.webp" group-title="BOLIVIA", COSMOS TV HD
-https://59d39900ebfb8.streamlock.net/telefehd/telefehd/chunklist_w33583915.m3u8
+https://canaletaplus.com:3922/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.whataform.com/avatar/avatar_812dbd40c5d7a94_3ef972e0881a605c5b8fe7d51614a1703a28e2db.png" group-title="BOLIVIA", CANAL 40 PUEBLO TV
 
