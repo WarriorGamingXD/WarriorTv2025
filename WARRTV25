@@ -21,7 +21,7 @@
 https://edge.enhdtv.com/8150/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://tele6.tv.bo/wp-content/uploads/2025/07/274641706_102980908995414_2209904193207960606_n-removebg-preview.png" group-title="BOLIVIA", TELE 6
-https://59d39900ebfb8.streamlock.net/tele6/tele6/chunklist_w1758702279.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wFLRx5gQ/imagen-2026-01-02-130829760.png" group-title="BOLIVIA", ADA DIGITAL
 https://edge.enhdtv.com/8214/tracks-v1a1/mono.m3u8
@@ -30,7 +30,7 @@ https://edge.enhdtv.com/8214/tracks-v1a1/mono.m3u8
 https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svT6rGQz/SEO.jpg" group-title="BOLIVIA", RED AMERICA
-https://s4.tvdatta.com:3355/live/redamericalive.m3u8
+https://edge.enhdtv.com/redamerica/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhhznS3t/11111111111.webp" group-title="BOLIVIA", COSMOS TV HD
 https://canaletaplus.com:3922/hybrid/play.m3u8
