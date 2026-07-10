@@ -13,9 +13,11 @@
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="BOLIVIA", TELECLASICA SD
 
+#EXTINF:-1 tvg-logo="https://assets.teleon.tv/180_webp/infinita-tv-ec.webp" group-title="BOLIVIA", FRECUENCIA TV
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/998c1M63/5.jpg" group-title="BOLIVIA", ACTIVA TV
-
+https://streamtv.mediasector.es/hls/activatv/1_2/index.m3u8?tkn=348148729
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nxYJ31f/W.png" group-title="BOLIVIA", WISE TV
 https://edge.enhdtv.com/8150/tracks-v1a1/mono.m3u8
