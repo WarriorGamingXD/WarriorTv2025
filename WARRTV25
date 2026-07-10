@@ -21,7 +21,7 @@
 https://edge.enhdtv.com/8150/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://tele6.tv.bo/wp-content/uploads/2025/07/274641706_102980908995414_2209904193207960606_n-removebg-preview.png" group-title="BOLIVIA", TELE 6
-
+https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/chunklist_w953671862.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wFLRx5gQ/imagen-2026-01-02-130829760.png" group-title="BOLIVIA", ADA DIGITAL
 https://edge.enhdtv.com/8214/tracks-v1a1/mono.m3u8
@@ -104,21 +104,21 @@ https://castv10.plugstreaming.com:19360/redtv/1080p.m3u8
 https://rtp.noxun.net/hls720/stream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="BOLIVIA", BOLIVIA TV 1
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(ME5pj8-925E8ZwwVFjCxdWQZ7wo6pLqoEoIX9CdXMumyfITdbC3mgTLbh4yeRAWZbr28sSxcNLLYaJhus40KEVJ6Ety8bh-aeXlkbtiep-d-f9d3Yf84vjE20ZUxn1Wa)/cloud/3/x9nzqpo/d/live-720.m3u8#cell=lcf2-eu-north-1a
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="BOLIVIA", BOLIVIA TV 2
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", BOLIVISION LP
-
+https://d135ohnuotzzyo.cloudfront.net/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", BOLIVISION SCZ
 
-https://d3jtkprncicwfh.cloudfront.net/out/v1/23cde7c3eec04c07a03cd755b8eb70e4/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL SCZ
-https://master.tucableip.com/tvhome/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL LP
-https://csc-axs-edge01.sensa.com.ar/live/eds/UnitelLPZ/live_dash_cld/UnitelLPZ.mpd
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fTeMW7Z1vpuzhdLPyh3mlTVA-TGPJEpu3I1ICo5VtE64JBVZQEqCsKAA7RnkzWBuAZE=s200" group-title="BOLIVIA", RED UNO (SANTA CRUZ)
 
@@ -139,12 +139,12 @@ https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkh1g7ns/images-1.jpg" group-title="BOLIVIA", TV OFF 
-https://s4.tvdatta.com:3449/live/tvofflive.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27cgJKRd/7.jpg" group-title="BOLIVIA", TURBION DIGITAL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DPjNLgVY/PAT.jpg" group-title="BOLIVIA", PAT
-https://csc-axs-edge01.sensa.com.ar/bpk-tv/PAT/default/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/889663440620531712/JlKtXQYa_400x400.jpg" group-title="BOLIVIA", GIGAVISION SCZ
 
@@ -186,10 +186,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0k89Wv/ssss.png" group-title="BOLIVIA", ZOY TV HD (PLUS)
-https://tv.zoymilton.com/ZoyPlus/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0k89Wv/ssss.png" group-title="BOLIVIA", ZOY TV (TURCAS)
-https://tv.zoymilton.com/ZoyTurcas/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J76KpSjD/ctvklp.jpg" group-title="BOLIVIA", CTV HD
 https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
@@ -226,7 +225,7 @@ https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 https://live.enhdtv.com:8081/8062/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWFDLhmm/11.jpg" group-title="BOLIVIA", INEDITA FHD
-https://59d39900ebfb8.streamlock.net/INEDITA/INEDITA/chunklist_w692340401.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spmpcR1q/333.jpg" group-title="BOLIVIA", CN3 TV
 https://edge.enhdtv.com/cn3/tracks-v1a1/mono.m3u8
@@ -252,7 +251,7 @@ https://stream-167790.castr.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/energeek_1.png" group-title="BOLIVIA", Energeek Retro
-https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=dEmoweBeneRGEek2025
+https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.ts.m3u8?token=W3bEnerG33k2026
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/50_Locomotion.png" group-title="BOLIVIA", LOCOMOTION 
 
