@@ -12,6 +12,7 @@
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 2 (DEPORTES)
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="BOLIVIA", TELECLASICA SD
+https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8?hls_ctx=7h4g7qx1
 
 #EXTINF:-1 tvg-logo="https://assets.teleon.tv/180_webp/infinita-tv-ec.webp" group-title="BOLIVIA", FRECUENCIA TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
