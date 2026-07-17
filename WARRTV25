@@ -176,7 +176,7 @@ https://live.enhdtv.com:8081/8192/tracks-v1a1/mono.m3u8
 https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f4yPLyS/unnamed.png" group-title="BOLIVIA", MEGA AMAZONIA TV  
-https://ares.disfrutaenlared.com:1936/megatv/megatv/chunklist_w1095555084.m3u8
+https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YC5FRmq.png" group-title="BOLIVIA", RED CCTV (480p)
 https://ares.disfrutaenlared.com:1936/redcctv/redcctv/chunklist_w784832861.m3u8
