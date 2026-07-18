@@ -105,12 +105,8 @@ https://d135ohnuotzzyo.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL LP
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fTeMW7Z1vpuzhdLPyh3mlTVA-TGPJEpu3I1ICo5VtE64JBVZQEqCsKAA7RnkzWBuAZE=s200" group-title="BOLIVIA", RED UNO (SANTA CRUZ)
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fTeMW7Z1vpuzhdLPyh3mlTVA-TGPJEpu3I1ICo5VtE64JBVZQEqCsKAA7RnkzWBuAZE=s200" group-title="BOLIVIA", RED UNO SD LP
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="BOLIVIA", BOLIVIA TV 1
-https://www.dailymotion.com/video/x9nzqpo
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="BOLIVIA", BOLIVIA TV 2
-https://www.dailymotion.com/video/x9ny70y
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0RxcvssL/ATB.jpg" group-title="BOLIVIA", ATB
 http://186.121.206.197/live/daniel/index.m3u8
@@ -164,7 +160,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf12839a5db76743a7c2448b9bd68337.webp" group-title="BOLIVIA", NOVELISIMA
-https://dai.google.com/linear/hls/pa/event/8QpjAnHCQQqBxFVRdDQXCA/stream/016c2797-6dc2-4e17-a645-7d85851f6ce6:SCL2/variant/081f51567e9cf4e34cd83fdd282d2412/bandwidth/3071200.m3u8
+https://pubads.g.doubleclick.net/ssai/event/8QpjAnHCQQqBxFVRdDQXCA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg" group-title="BOLIVIA", UNIVALLE TV HD
 https://master.tucableip.com/univalletv/tracks-v1a1/mono.ts.m3u8
