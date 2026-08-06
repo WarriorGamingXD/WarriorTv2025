@@ -96,7 +96,7 @@ https://castv10.plugstreaming.com:19360/redtv/1080p.m3u8
 https://rtp.noxun.net/hls720/stream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", BOLIVISION LP
-https://d135ohnuotzzyo.cloudfront.net/index_2.m3u8
+https://d135ohnuotzzyo.cloudfront.net/_token/v1.1786034652.g_wQfp5gA9hJ50Jhwyt_psWWAb15TrLcYm_X5SWNTEE/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", BOLIVISION SCZ
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL SCZ
