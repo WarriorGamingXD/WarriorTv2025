@@ -43,9 +43,6 @@ https://canaletaplus.com:3922/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xtv6rHpC/images.jpg" group-title="BOLIVIA", UNICA TV
 https://59d39900ebfb8.streamlock.net/unicatv/unicatv/chunklist_w234632342.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.whataform.com/avatar/avatar_812dbd40c5d7a94_3ef972e0881a605c5b8fe7d51614a1703a28e2db.png" group-title="BOLIVIA", PUEBLO TV
-https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/chunklist_w808515766.m3u8
-
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cosmos-Per%C3%BA-en-vivo-Online-747x420.png" group-title="BOLIVIA", COSMOS TV (PE)
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 
@@ -123,11 +120,7 @@ https://rtp.noxun.net/hls720/stream3.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fTeMW7Z1vpuzhdLPyh3mlTVA-TGPJEpu3I1ICo5VtE64JBVZQEqCsKAA7RnkzWBuAZE=s200" group-title="BOLIVIA", RED UNO SD LP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="BOLIVIA", BOLIVIA TV 1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="BOLIVIA", BOLIVIA TV 2
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0RxcvssL/ATB.jpg" group-title="BOLIVIA", ATB
-https://live.eu-north-1b.cf.dmcdn.net/sec2(KahaqnWidp-1uTm15k_dd0Hr49o8BGiv8XzWNI_rcUGGzGQVmLsvgTI7U0YWV9GOM67OM4ruqqBMe3C-LKlYBWWa3wDzAgk0FTd2IR1lR6DnhHXAiGT0naDuXE5Woubd)/dm/3/x84eirw/d/live-720.m3u8#cell=lcf-eu-north-1b
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hQ5jjxH/imagen-2026-01-02-144608408.png" group-title="BOLIVIA", TVT
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkh1g7ns/images-1.jpg" group-title="BOLIVIA", TV OFF 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27cgJKRd/7.jpg" group-title="BOLIVIA", TURBION DIGITAL
@@ -244,8 +237,10 @@ https://stmv1.deportetotal.com.bo/demo/demo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spmpcR1q/333.jpg" group-title="BOLIVIA", CN3 TV
 https://edge.enhdtv.com/cn3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9k8D7ZsL/imagen-2026-01-02-125807326.png" group-title="BOLIVIA", POB TV
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWFDLhmm/11.jpg" group-title="BOLIVIA", INEDITA FHD
+https://59d39900ebfb8.streamlock.net/INEDITA/INEDITA/chunklist_w2062755108.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9k8D7ZsL/imagen-2026-01-02-125807326.png" group-title="BOLIVIA", POB TV
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gZt3rZFQ/2.jpg" group-title="BOLIVIA", UNICA TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RNs3KM1.png" group-title="BOLIVIA", ANTv (Tarija)
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3bymuv.jpeg" group-title="BOLIVIA", TVA
