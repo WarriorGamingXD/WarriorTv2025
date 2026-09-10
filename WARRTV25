@@ -920,10 +920,9 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklis
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w167279756.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6600c565921f9eb27fc17ebf1b4eac88.webp" group-title="MUSICA", SI TV
-https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w1184419101.m3u8
+
 
 #EXTINF:-1 tvg-logo="hhttps://p7.hiclipart.com/preview/174/306/410/5bb90a151ba22-thumbnail.jpg" group-title="MUSICA", VH1
-http://tvip.world:80/MUZICKI/4XbNMJEmq2/447.ts
 
 #EXTINF:-1 tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/oxygen-music/play_250_250.png" group-title="MUSICA", OXYGEN MUSIC
 https://oxygenmusic.hu:2443/hls/oxygenmusic_2200.m3u8
