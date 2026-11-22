@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="BOLIVIA", TELECLASICA SD
-https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/teleclasik/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.teleon.tv/180_webp/pantalla-clasica-ec.webp" group-title="BOLIVIA", PANTALLA CLASSICA
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/chunks.m3u8
