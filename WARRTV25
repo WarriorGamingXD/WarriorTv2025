@@ -1,8 +1,9 @@
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="BOLIVIA", TELECLASICA SD
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="BOLIVIA", TELECLASICA 
+https://183.giatvcdn.com/ssh101/ssh101/teleclasik/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.teleon.tv/180_webp/pantalla-clasica-ec.webp" group-title="BOLIVIA", PANTALLA CLASSICA
-
-
+https://183.giatvcdn.com/ssh101/ssh101/pantallaclasics/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5b157c3c4e4df514dab25bcb6e5d53cc.webp" group-title="BOLIVIA", MEGA CINE
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
